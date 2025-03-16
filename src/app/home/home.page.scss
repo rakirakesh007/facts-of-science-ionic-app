@@ -1,0 +1,222 @@
+.header-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(90deg, #6eee87, #5fc52e);
+  padding: 10px;
+}
+
+.sidemenu-header-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: linear-gradient(90deg, #6eee87, #5fc52e);
+}
+
+.animated-menu {
+  transform: translateX(100%);
+  transition: transform 0.4s ease-in-out;
+}
+
+ion-menu.show-menu {
+  transform: translateX(0);
+}
+
+.logo {
+  width: 50px;
+  height: auto;
+}
+
+ion-title {
+  font-weight: bold;
+  font-size: 26px;
+  color: #133a94;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.text-gradient {
+  background: linear-gradient(90deg, #c8173f 0%, #441ebd 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.fact-card {
+  background-size: cover;
+  height: 250px;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  transition:
+    transform 0.3s ease-in-out,
+    box-shadow 0.3s ease-in-out;
+
+  &:hover {
+    transform: scale(1.05); // Slight zoom effect
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+  }
+}
+
+.fact-card-content {
+  background: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.intro-content {
+  padding: 0px 20px;
+}
+
+.news-section {
+  padding: 16px;
+}
+
+.daily-fact-card {
+  background: linear-gradient(135deg, #ff6b6b 0%, #f7c14f 100%);
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+  animation: fadeIn 0.8s ease-in-out;
+
+  &:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.3);
+  }
+
+  .fact-header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+
+  .fact-tag {
+    font-size: 16px;
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.3);
+    color: #fff;
+    padding: 5px 12px;
+    border-radius: 20px;
+  }
+
+  .fact-content {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .fact-text {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .fact-image {
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    border-radius: 12px;
+    margin-top: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .fact-footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+  }
+
+  .refresh-btn,
+  .share-btn {
+    font-weight: bold;
+    border-radius: 8px;
+  }
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+// Animation
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// Add smooth fade-in animation when cards load
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeInUp 0.8s ease-in-out;
+}
+
+.fact-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+.fact-title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.fact-description {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.news-item {
+  --padding-start: 0;
+  --padding-end: 0;
+  margin: 10px 0;
+}
+
+.news-thumbnail {
+  --size: 120px;
+  margin: 10px;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+}
+
+.daily-fact-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.share-icon {
+  font-size: 24px;
+  color: #007aff; /* iOS Blue for better visibility */
+  transition: transform 0.2s ease-in-out;
+}
+
+.share-icon:hover {
+  transform: scale(1.2); /* Slight zoom effect on hover */
+}

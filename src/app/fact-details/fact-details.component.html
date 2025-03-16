@@ -1,0 +1,91 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button (click)="goHome()"></ion-back-button>
+    </ion-buttons>
+    <ion-title>{{ selectedTopic?.title }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <!-- Category Chips -->
+  <div class="chip-container">
+    <div *ngFor="let fact of scienceFacts"
+         class="custom-chip"
+         [ngClass]="{ 'active-chip': fact.category !== header, 'disabled-chip': fact.category === header }"
+         (click)="fact.category !== header ? navigateToDetail(fact.category) : null">
+      <img [src]="fact.icon" alt="{{ fact.category }} icon" class="chip-icon" />
+      <span>{{ fact.title }}</span>
+    </div>
+  </div>
+
+  <!-- Fact Cards -->
+  <ion-grid>
+    <ion-row>
+      <ng-container *ngFor="let fact of filteredFacts; let i = index">
+        <!-- Fact Card -->
+        <ion-col size="12" size-md="6" size-lg="4">
+          <ion-card [ngStyle]="{'background-color': fact.color}">
+            <ion-card-header>
+              <ion-card-title>{{ fact.title }}</ion-card-title>
+            </ion-card-header>
+
+            <ion-card-content>
+              <img *ngIf="fact.image" [src]="fact.image" alt="{{ fact.title }} image" class="fact-image" />
+              <p>{{ fact.description }}</p>
+
+              <!-- Brainteaser Quiz -->
+              <div *ngIf="fact.category === 'Brainteaser Quiz'">
+                <br>
+                <div class="answer-box" (click)="toggleAnswer(fact)">
+                  <span *ngIf="!fact.showAnswer">🔍 Tap to Reveal Answer</span>
+                  <span *ngIf="fact.showAnswer">{{ fact.answer }}</span>
+                </div>
+              </div>
+              <ion-icon
+                [name]="isFavorite(fact) ? 'heart' : 'heart-outline'"
+                class="favorite-icon"
+                (click)="toggleFavorite(fact)">
+              </ion-icon>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+
+        <!-- Ad Banner -->
+        <ion-col size="12" *ngIf="(i + 1) % 10 === 0">
+          <ion-card class="ad-banner">
+            <ion-card-content>
+              <div id="banner-ad-container-{{i}}"></div>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+      </ng-container>
+    </ion-row>
+  </ion-grid>
+
+  <div class="timeline-container" *ngIf="category === 'Timeline'">
+    <div *ngFor="let event of timelineEvents; let i = index"
+         class="timeline-item"
+         [ngClass]="{ 'left': i % 2 === 0, 'right': i % 2 !== 0 }"
+         #timelineItem>
+
+      <div class="timeline-content">
+        <h2>{{ event.year }}</h2>
+        <p>{{ event.event }}</p>
+      </div>
+
+      <img *ngIf="event.image" [src]="event.image" alt="Event Image" class="timeline-image" />
+
+      <div *ngIf="(i + 1) % 3 === 0">
+        <ion-card class="ad-banner">
+          <ion-card-content>
+            <div id="banner-ad-container-{{i}}"></div>
+          </ion-card-content>
+        </ion-card>
+      </div>
+
+    </div>
+  </div>
+
+
+</ion-content>

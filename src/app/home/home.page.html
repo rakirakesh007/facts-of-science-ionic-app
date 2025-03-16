@@ -1,0 +1,149 @@
+<ion-menu side="end" contentId="main-content" class="animated-menu">
+  <ion-header>
+    <ion-toolbar>
+      <div class="sidemenu-header-title">
+        <img src="assets/logo.png" alt="Logo" class="logo" />
+        <ion-title class="title-text"
+          >FACTS <span class="subtitle">of</span> SCIENCE</ion-title
+        >
+      </div>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-list>
+      <ion-item button (click)="shareApp()">
+        <ion-icon name="share-social-outline" slot="start"></ion-icon>
+        <ion-label>Share</ion-label>
+      </ion-item>
+      <ion-item button (click)="goToFavorites()">
+        <ion-icon name="heart" slot="start"></ion-icon>
+        <ion-label>Favorites</ion-label>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-menu>
+
+<div class="ion-page" id="main-content">
+  <ion-header>
+    <ion-toolbar class="toolbar-background">
+      <div class="header-title">
+        <img src="assets/logo.png" alt="Logo" class="logo" />
+        <ion-title class="title-text"
+          >FACTS <span class="subtitle">of</span> SCIENCE</ion-title
+        >
+        <ion-buttons slot="start">
+          <ion-menu-button></ion-menu-button>
+        </ion-buttons>
+      </div>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-content [fullscreen]="true">
+    <div class="intro-section">
+      <div class="intro-content">
+        <h1 data-aos="fade-up">
+          Explore the
+          <br /><span class="text-gradient">Wonders of Science</span>
+        </h1>
+        <p>
+          Dive into the fascinating world of science and uncover its endless
+          wonders! From the mysteries of the universe to the tiniest atoms that
+          build everything around us, this app brings science to life with
+          exciting facts, thought-provoking quizzes, and inspiring stories of
+          famous scientists. Explore captivating topics like physics, chemistry,
+          biology, space, Earth science, technology, and health. Perfectly
+          crafted for young minds, this app encourages curiosity, critical
+          thinking, and a passion for learning. Whether you're solving
+          brain-teasing puzzles or reading about groundbreaking discoveries,
+          there's something new and exciting waiting for you every day!
+        </p>
+        <br />
+      </div>
+    </div>
+
+    <ion-card class="daily-fact-card" data-aos="zoom-in">
+      <ion-card-header>
+        <ion-card-title class="daily-fact-title">
+          <h2>🌟 Fact of the Day</h2>
+        </ion-card-title>
+      </ion-card-header>
+
+      <ion-card-content>
+        <div class="fact-content" *ngIf="dailyFact">
+          <p class="fact-text">{{ dailyFact?.description }}</p>
+        </div>
+
+        <div class="button-container">
+          <ion-button fill="solid" color="success" (click)="showAnotherFact()">
+            🔄 Show Another Fact
+          </ion-button>
+          <ion-button slot="end" fill="clear" (click)="shareFact()" class="share-icon">
+            <ion-icon name="share-social-outline" class="share-icon"></ion-icon>
+          </ion-button>
+        </div>
+      </ion-card-content>
+    </ion-card>
+
+    <div class="news-section" data-aos="fade-right">
+      <h2>📢 Science news of the day</h2>
+      <ion-list *ngIf="limitedNews.length > 0">
+        <ion-item class="news-item" *ngFor="let article of limitedNews">
+          <ion-thumbnail slot="start" class="news-thumbnail">
+            <img [src]="article.urlToImage || 'assets/default-news.jpg'" alt="News thumbnail"/>
+          </ion-thumbnail>
+          <ion-label>
+            <h2>{{ article.title }}</h2>
+            <p>{{ article.description }}</p>
+            <ion-button
+              fill="outline"
+              color="success"
+              (click)="openArticle(article.url)"
+            >
+              Read More
+            </ion-button>
+          </ion-label>
+        </ion-item>
+      </ion-list>
+      <!-- "View All" Button -->
+      <ion-button
+        expand="full"
+        fill="solid"
+        color="success"
+        (click)="viewAllNews()"
+      >
+        View All News
+      </ion-button>
+    </div>
+
+    <ion-grid>
+      <ion-row>
+        <ion-col
+          size="12"
+          size-md="6"
+          *ngFor="let fact of facts"
+          class="fade-in"
+        >
+          <ion-card
+            class="fact-card animate-card" data-aos="flip-left"
+            [ngStyle]="{'background-image': 'url(' + fact.imageURL + ')'}"
+            (click)="navigateToFactDetails(fact.category)"
+          >
+            <div class="fact-overlay"></div>
+            <ion-card-content class="fact-card-content">
+              <h2 class="fact-title">{{ fact.title }}</h2>
+              <p class="fact-description">{{ fact.description }}</p>
+            </ion-card-content>
+          </ion-card>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+
+    <ion-fab vertical="bottom" horizontal="end" slot="fixed" data-aos="fade-in" style="bottom:50px">
+      <ion-fab-button style="background: transparent; box-shadow: none; width: 75px; height: 75px;" (click)="openChat()" size="large">
+        <img src="assets/ask-bot.gif" alt="Ask Science"
+          style="width: 75px; height: 75px; border-radius: 50%;">
+      </ion-fab-button>
+    </ion-fab>
+  </ion-content>
+  <br />
+</div>

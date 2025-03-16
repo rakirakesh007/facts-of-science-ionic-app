@@ -1,5 +1,7 @@
 {
-  "name": "science-facts-new",
-  "integrations": {},
-  "type": "angular-standalone"
+  "name": "Science Facts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
 }

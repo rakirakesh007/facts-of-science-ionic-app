@@ -34,4 +34,14 @@
 
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
-@import '@ionic/angular/css/palettes/dark.system.css';
+@import "@ionic/angular/css/palettes/dark.system.css";
+
+/* Set the default font for the entire application */
+body {
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive !important;
+}
+
+/* Optional: You can add more specific styles if needed */
+h1, h2, h3, h4, h5, h6, p, ion-title, span, ion-card-title, button, ion-button, ion-label, ion-input, ion-textarea {
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive !important;
+}

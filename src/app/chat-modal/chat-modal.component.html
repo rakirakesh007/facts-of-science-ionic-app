@@ -1,0 +1,34 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Ask the Bot!
+      🤖</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="closeChat()">
+        <ion-icon name="close"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div class="chat-container">
+    <div *ngFor="let msg of messages" [ngClass]="['message', msg.sender]">
+      <p>{{ msg.text }}</p>
+    </div>
+
+    <!-- Typing Indicator -->
+    <div class="typing-indicator" *ngIf="isTyping">
+      <span></span><span></span><span></span>
+    </div>
+  </div>
+</ion-content>
+
+<ion-footer class="chat-footer">
+  <ion-item>
+    <ion-input [(ngModel)]="userInput" placeholder="Ask me a science question..."></ion-input>
+    <ion-button color="success" size="default" (click)="sendMessage()">
+      Send
+      <ion-icon slot="end" name="send-sharp"></ion-icon>
+    </ion-button>
+  </ion-item>
+</ion-footer>

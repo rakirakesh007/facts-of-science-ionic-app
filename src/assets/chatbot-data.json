@@ -1,0 +1,2476 @@
+[
+    {
+        "question": "What is gravity?",
+        "answer": "Gravity is the force that attracts objects toward each other.",
+        "keywords": [
+            "gravity",
+            "force",
+            "physics",
+            "attraction"
+        ]
+    },
+    {
+        "question": "Who discovered electricity?",
+        "answer": "Benjamin Franklin is credited with discovering electricity.",
+        "keywords": [
+            "electricity",
+            "discovery",
+            "benjamin franklin",
+            "invention"
+        ]
+    },
+    {
+        "question": "What is the speed of light?",
+        "answer": "The speed of light in vacuum is approximately 299,792,458 meters per second.",
+        "keywords": [
+            "speed of light",
+            "light",
+            "physics",
+            "velocity"
+        ]
+    },
+    {
+        "question": "What is Newton's first law of motion?",
+        "answer": "Newton's first law states that an object will remain at rest or in uniform motion unless acted upon by an external force.",
+        "keywords": [
+            "Newton's laws",
+            "motion",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is the chemical formula of water?",
+        "answer": "The chemical formula of water is H2O, consisting of two hydrogen atoms and one oxygen atom.",
+        "keywords": [
+            "water",
+            "H2O",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the function of mitochondria in a cell?",
+        "answer": "Mitochondria are known as the powerhouse of the cell as they generate ATP, the energy currency of the cell.",
+        "keywords": [
+            "mitochondria",
+            "cell energy",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is a black hole?",
+        "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape from it.",
+        "keywords": [
+            "black hole",
+            "space",
+            "astronomy"
+        ]
+    },
+    {
+        "question": "What causes earthquakes?",
+        "answer": "Earthquakes are caused by the sudden release of energy in the Earth's crust due to tectonic plate movements.",
+        "keywords": [
+            "earthquake",
+            "tectonic plates",
+            "earth science"
+        ]
+    },
+    {
+        "question": "Who invented the first computer?",
+        "answer": "Charles Babbage is considered the father of the computer for designing the first mechanical computer.",
+        "keywords": [
+            "computer",
+            "technology",
+            "invention"
+        ]
+    },
+    {
+        "question": "What is the speed of light?",
+        "answer": "The speed of light in vacuum is approximately 299,792,458 meters per second.",
+        "keywords": [
+            "speed of light",
+            "physics",
+            "light"
+        ]
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants convert sunlight into energy, producing oxygen and glucose.",
+        "keywords": [
+            "photosynthesis",
+            "plants",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is the pH of pure water?",
+        "answer": "The pH of pure water is 7, which is considered neutral.",
+        "keywords": [
+            "pH",
+            "water",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "answer": "Jupiter is the largest planet in our solar system, with a diameter of about 139,820 km.",
+        "keywords": [
+            "Jupiter",
+            "largest planet",
+            "astronomy"
+        ]
+    },
+    {
+        "question": "Why do we need food?",
+        "answer": "Food provides energy and nutrients for growth, repair, and body functions.",
+        "keywords": [
+            "food",
+            "energy",
+            "nutrition"
+        ]
+    },
+    {
+        "question": "What are the different types of motion?",
+        "answer": "There are rectilinear motion, circular motion, and periodic motion.",
+        "keywords": [
+            "motion",
+            "types of motion",
+            "physics"
+        ]
+    },
+    {
+        "question": "Why is air important for living beings?",
+        "answer": "Air contains oxygen which is essential for respiration in most living organisms.",
+        "keywords": [
+            "air",
+            "oxygen",
+            "respiration"
+        ]
+    },
+    {
+        "question": "What is the role of saliva in digestion?",
+        "answer": "Saliva contains enzymes that break down starch into simpler sugars.",
+        "keywords": [
+            "saliva",
+            "digestion",
+            "biology"
+        ]
+    },
+    {
+        "question": "What are acids and bases?",
+        "answer": "Acids are sour substances that release hydrogen ions, while bases are bitter and release hydroxide ions.",
+        "keywords": [
+            "acids",
+            "bases",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the difference between heat and temperature?",
+        "answer": "Heat is energy transfer due to temperature difference, while temperature measures the intensity of heat.",
+        "keywords": [
+            "heat",
+            "temperature",
+            "physics"
+        ]
+    },
+    {
+        "question": "What are the properties of metals?",
+        "answer": "Metals are malleable, ductile, good conductors of heat and electricity, and have a shiny appearance.",
+        "keywords": [
+            "metals",
+            "properties",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the importance of microorganisms?",
+        "answer": "Microorganisms help in decomposition, fermentation, and making medicines like antibiotics.",
+        "keywords": [
+            "microorganisms",
+            "bacteria",
+            "biology"
+        ]
+    },
+    {
+        "question": "How does sound travel?",
+        "answer": "Sound travels as a longitudinal wave through a medium like air, water, or solids.",
+        "keywords": [
+            "sound",
+            "wave",
+            "physics"
+        ]
+    },
+    {
+        "question": "State Newton’s second law of motion.",
+        "answer": "Force equals mass times acceleration (F = ma).",
+        "keywords": [
+            "Newton's laws",
+            "second law",
+            "force"
+        ]
+    },
+    {
+        "question": "What are isotopes?",
+        "answer": "Isotopes are atoms of the same element with different numbers of neutrons.",
+        "keywords": [
+            "isotopes",
+            "atoms",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the function of mitochondria?",
+        "answer": "Mitochondria generate ATP, the energy currency of the cell.",
+        "keywords": [
+            "mitochondria",
+            "cell biology",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is Ohm’s Law?",
+        "answer": "Ohm’s Law states that voltage equals current times resistance (V = IR).",
+        "keywords": [
+            "Ohm's Law",
+            "electricity",
+            "physics"
+        ]
+    },
+    {
+        "question": "What are the different types of chemical reactions?",
+        "answer": "Combination, decomposition, displacement, and redox reactions.",
+        "keywords": [
+            "chemical reactions",
+            "types",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the greenhouse effect?",
+        "answer": "The greenhouse effect traps heat in the Earth’s atmosphere, leading to global warming.",
+        "keywords": [
+            "greenhouse effect",
+            "climate change",
+            "earth science"
+        ]
+    },
+    {
+        "question": "What is an ecosystem?",
+        "answer": "An ecosystem is a community of living organisms interacting with their physical environment.",
+        "keywords": [
+            "ecosystem",
+            "environment",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is the function of the heart?",
+        "answer": "The heart pumps oxygenated blood to the body and deoxygenated blood to the lungs.",
+        "keywords": [
+            "heart",
+            "circulatory system",
+            "biology"
+        ]
+    },
+    {
+        "question": "What are the three states of matter?",
+        "answer": "The three states of matter are solid, liquid, and gas.",
+        "keywords": [
+            "states of matter",
+            "solid",
+            "liquid",
+            "gas",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is an atom?",
+        "answer": "An atom is the smallest unit of matter that retains the properties of an element.",
+        "keywords": [
+            "atom",
+            "matter",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the ozone layer?",
+        "answer": "The ozone layer is a region in the Earth's stratosphere that absorbs most of the Sun’s harmful ultraviolet radiation.",
+        "keywords": [
+            "ozone layer",
+            "UV radiation",
+            "earth science"
+        ]
+    },
+    {
+        "question": "What is the water cycle?",
+        "answer": "The water cycle describes how water evaporates, condenses, precipitates, and returns to the surface.",
+        "keywords": [
+            "water cycle",
+            "evaporation",
+            "precipitation",
+            "earth science"
+        ]
+    },
+    {
+        "question": "What is friction?",
+        "answer": "Friction is a force that opposes the motion of objects when they are in contact.",
+        "keywords": [
+            "friction",
+            "force",
+            "physics"
+        ]
+    },
+    {
+        "question": "Why do we see lightning before hearing thunder?",
+        "answer": "Light travels faster than sound, so we see lightning before we hear thunder.",
+        "keywords": [
+            "lightning",
+            "thunder",
+            "speed of light",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "answer": "Water boils at 100°C (212°F) at sea level.",
+        "keywords": [
+            "boiling point",
+            "water",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What are vertebrates and invertebrates?",
+        "answer": "Vertebrates have a backbone, while invertebrates do not.",
+        "keywords": [
+            "vertebrates",
+            "invertebrates",
+            "biology"
+        ]
+    },
+    {
+        "question": "What are the main gases in Earth's atmosphere?",
+        "answer": "Nitrogen (78%) and oxygen (21%) are the two main gases.",
+        "keywords": [
+            "atmosphere",
+            "gases",
+            "earth science"
+        ]
+    },
+    {
+        "question": "What is renewable energy?",
+        "answer": "Renewable energy comes from natural sources that replenish over time, like solar and wind energy.",
+        "keywords": [
+            "renewable energy",
+            "solar energy",
+            "wind energy"
+        ]
+    },
+    {
+        "question": "What is the function of the brain?",
+        "answer": "The brain controls thoughts, emotions, and bodily functions.",
+        "keywords": [
+            "brain",
+            "nervous system",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is an element in chemistry?",
+        "answer": "An element is a pure substance that cannot be broken down into simpler substances.",
+        "keywords": [
+            "element",
+            "chemistry",
+            "periodic table"
+        ]
+    },
+    {
+        "question": "What is a molecule?",
+        "answer": "A molecule is a group of two or more atoms chemically bonded together.",
+        "keywords": [
+            "molecule",
+            "atoms",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the difference between mass and weight?",
+        "answer": "Mass is the amount of matter in an object, while weight is the force due to gravity acting on mass.",
+        "keywords": [
+            "mass",
+            "weight",
+            "gravity",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "answer": "The cell is the smallest unit of life.",
+        "keywords": [
+            "cell",
+            "biology",
+            "life science"
+        ]
+    },
+    {
+        "question": "What is an ecosystem?",
+        "answer": "An ecosystem is a community of living organisms interacting with their environment.",
+        "keywords": [
+            "ecosystem",
+            "environment",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is a chemical reaction?",
+        "answer": "A chemical reaction is a process where substances change into new substances with different properties.",
+        "keywords": [
+            "chemical reaction",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the periodic table?",
+        "answer": "The periodic table organizes elements based on atomic number and properties.",
+        "keywords": [
+            "periodic table",
+            "elements",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is a comet?",
+        "answer": "A comet is a celestial body made of ice and dust that orbits the sun.",
+        "keywords": [
+            "comet",
+            "space",
+            "astronomy"
+        ]
+    },
+    {
+        "question": "What is the function of the liver?",
+        "answer": "The liver filters blood, produces bile, and helps in digestion.",
+        "keywords": [
+            "liver",
+            "biology",
+            "human body"
+        ]
+    },
+    {
+        "question": "What are the three types of rocks?",
+        "answer": "The three types of rocks are igneous, sedimentary, and metamorphic.",
+        "keywords": [
+            "rocks",
+            "geology",
+            "earth science"
+        ]
+    },
+    {
+        "question": "What are the main organs of the respiratory system?",
+        "answer": "The lungs, trachea, and diaphragm are the main organs of the respiratory system.",
+        "keywords": [
+            "respiratory system",
+            "lungs",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is the function of the kidneys?",
+        "answer": "The kidneys filter waste from the blood and produce urine.",
+        "keywords": [
+            "kidneys",
+            "biology",
+            "excretory system"
+        ]
+    },
+    {
+        "question": "What is electromagnetism?",
+        "answer": "Electromagnetism is the interaction between electric currents and magnetic fields.",
+        "keywords": [
+            "electromagnetism",
+            "electricity",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is a magnet?",
+        "answer": "A magnet is an object that produces a magnetic field and attracts iron, nickel, and cobalt.",
+        "keywords": [
+            "magnet",
+            "magnetic field",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is global warming?",
+        "answer": "Global warming is the long-term increase in Earth's average temperature due to greenhouse gases.",
+        "keywords": [
+            "global warming",
+            "climate change",
+            "earth science"
+        ]
+    },
+    {
+        "question": "What is the pH scale?",
+        "answer": "The pH scale measures the acidity or alkalinity of a substance, ranging from 0 (acidic) to 14 (basic).",
+        "keywords": [
+            "pH scale",
+            "acidity",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is a tsunami?",
+        "answer": "A tsunami is a series of large ocean waves caused by underwater earthquakes or volcanic eruptions.",
+        "keywords": [
+            "tsunami",
+            "earthquake",
+            "natural disasters"
+        ]
+    },
+    {
+        "question": "What is a galaxy?",
+        "answer": "A galaxy is a system of stars, gas, and dust bound together by gravity.",
+        "keywords": [
+            "galaxy",
+            "universe",
+            "astronomy"
+        ]
+    },
+    {
+        "question": "What is chlorophyll?",
+        "answer": "Chlorophyll is a green pigment in plants that helps in photosynthesis.",
+        "keywords": [
+            "chlorophyll",
+            "photosynthesis",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is an atom made of?",
+        "answer": "An atom consists of protons, neutrons, and electrons.",
+        "keywords": [
+            "atom",
+            "protons",
+            "electrons",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants convert sunlight into chemical energy to produce oxygen and glucose.",
+        "keywords": [
+            "photosynthesis",
+            "plants",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is a volcano?",
+        "answer": "A volcano is an opening in the Earth's crust through which molten rock, ash, and gases escape.",
+        "keywords": [
+            "volcano",
+            "lava",
+            "earth science"
+        ]
+    },
+    {
+        "question": "What is static electricity?",
+        "answer": "Static electricity is the buildup of electric charge on a surface due to friction.",
+        "keywords": [
+            "static electricity",
+            "charge",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is the function of the skeletal system?",
+        "answer": "The skeletal system provides structure, supports the body, and protects internal organs.",
+        "keywords": [
+            "skeletal system",
+            "bones",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is the function of the digestive system?",
+        "answer": "The digestive system breaks down food and absorbs nutrients for the body.",
+        "keywords": [
+            "digestive system",
+            "stomach",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is a constellation?",
+        "answer": "A constellation is a group of stars that form a recognizable pattern in the night sky.",
+        "keywords": [
+            "constellation",
+            "stars",
+            "astronomy"
+        ]
+    },
+    {
+        "question": "What are the three types of heat transfer?",
+        "answer": "The three types of heat transfer are conduction, convection, and radiation.",
+        "keywords": [
+            "heat transfer",
+            "conduction",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is the function of the nervous system?",
+        "answer": "The nervous system controls body functions and transmits signals between different parts of the body.",
+        "keywords": [
+            "nervous system",
+            "brain",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is kinetic energy?",
+        "answer": "Kinetic energy is the energy of an object due to its motion.",
+        "keywords": [
+            "kinetic energy",
+            "motion",
+            "physics"
+        ]
+    },
+    {
+        "question": "What are the layers of the atmosphere?",
+        "answer": "The Earth's atmosphere has five layers: troposphere, stratosphere, mesosphere, thermosphere, and exosphere.",
+        "keywords": [
+            "atmosphere",
+            "layers",
+            "earth science"
+        ]
+    },
+    {
+        "question": "What is an eclipse?",
+        "answer": "An eclipse occurs when one celestial body moves into the shadow of another, blocking its light.",
+        "keywords": [
+            "eclipse",
+            "solar eclipse",
+            "astronomy"
+        ]
+    },
+    {
+        "question": "What is the difference between renewable and non-renewable resources?",
+        "answer": "Renewable resources replenish naturally over time, while non-renewable resources are finite and deplete with use.",
+        "keywords": [
+            "renewable resources",
+            "energy",
+            "earth science"
+        ]
+    },
+    {
+        "question": "What are the properties of light?",
+        "answer": "Light travels in a straight line, can be reflected, refracted, and dispersed into different colors.",
+        "keywords": [
+            "light",
+            "reflection",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is sound energy?",
+        "answer": "Sound energy is produced when an object vibrates, creating sound waves in a medium.",
+        "keywords": [
+            "sound energy",
+            "vibrations",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is DNA?",
+        "answer": "DNA (Deoxyribonucleic Acid) carries genetic instructions for the development of living organisms.",
+        "keywords": [
+            "DNA",
+            "genetics",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is a planet?",
+        "answer": "A planet is a celestial body that orbits a star and has cleared its orbit of other debris.",
+        "keywords": [
+            "planet",
+            "solar system",
+            "astronomy"
+        ]
+    },
+    {
+        "question": "What are acids and bases?",
+        "answer": "Acids release hydrogen ions in solution, while bases release hydroxide ions.",
+        "keywords": [
+            "acids",
+            "bases",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the function of blood?",
+        "answer": "Blood transports oxygen, nutrients, and waste products throughout the body.",
+        "keywords": [
+            "blood",
+            "circulatory system",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is gravity?",
+        "answer": "Gravity is the force that attracts objects toward each other, keeping planets in orbit around the sun.",
+        "keywords": [
+            "gravity",
+            "force",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is a simple machine?",
+        "answer": "A simple machine is a device that makes work easier by increasing or changing the direction of force.",
+        "keywords": [
+            "simple machine",
+            "lever",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is the difference between a lunar and solar eclipse?",
+        "answer": "A lunar eclipse occurs when Earth casts a shadow on the moon, while a solar eclipse happens when the moon blocks the sun.",
+        "keywords": [
+            "lunar eclipse",
+            "solar eclipse",
+            "astronomy"
+        ]
+    },
+    {
+        "question": "What is a chemical bond?",
+        "answer": "A chemical bond is the force that holds atoms together in a molecule.",
+        "keywords": [
+            "chemical bond",
+            "atoms",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is an adaptation?",
+        "answer": "An adaptation is a trait that helps an organism survive in its environment.",
+        "keywords": [
+            "adaptation",
+            "evolution",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is a physical change?",
+        "answer": "A physical change alters the form of a substance but does not change its chemical composition.",
+        "keywords": [
+            "physical change",
+            "matter",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is an exothermic reaction?",
+        "answer": "An exothermic reaction releases heat to the surroundings.",
+        "keywords": [
+            "exothermic reaction",
+            "heat",
+            "chemistry"
+        ]
+    },
+    {
+        "question": "What is the importance of biodiversity?",
+        "answer": "Biodiversity ensures ecosystem stability and provides resources like food, medicine, and oxygen.",
+        "keywords": [
+            "biodiversity",
+            "ecosystem",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is an amphibian?",
+        "answer": "Amphibians are cold-blooded vertebrates that live both in water and on land.",
+        "keywords": [
+            "amphibian",
+            "frogs",
+            "biology"
+        ]
+    },
+    {
+        "question": "What is a force?",
+        "answer": "A force is a push or pull acting on an object that can cause it to move or change shape.",
+        "keywords": [
+            "force",
+            "motion",
+            "physics"
+        ]
+    },
+    {
+        "question": "What is the function of white blood cells?",
+        "answer": "White blood cells help fight infections by attacking harmful bacteria and viruses.",
+        "keywords": ["white blood cells", "immune system", "biology"]
+      },
+      {
+        "question": "What are the three states of water?",
+        "answer": "Water exists in three states: solid (ice), liquid (water), and gas (steam).",
+        "keywords": ["states of water", "ice", "steam", "chemistry"]
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The greenhouse effect occurs when gases trap heat in the Earth's atmosphere, leading to global warming.",
+        "keywords": ["greenhouse effect", "climate change", "earth science"]
+      },
+      {
+        "question": "What is the function of the ozone layer?",
+        "answer": "The ozone layer protects Earth from harmful ultraviolet radiation from the sun.",
+        "keywords": ["ozone layer", "UV radiation", "earth science"]
+      },
+      {
+        "question": "What is an electric circuit?",
+        "answer": "An electric circuit is a closed path through which electric current flows.",
+        "keywords": ["electric circuit", "current", "physics"]
+      },
+      {
+        "question": "What is a conductor?",
+        "answer": "A conductor is a material that allows electricity or heat to pass through it easily.",
+        "keywords": ["conductor", "electricity", "physics"]
+      },
+      {
+        "question": "What is an insulator?",
+        "answer": "An insulator is a material that resists the flow of electricity or heat.",
+        "keywords": ["insulator", "electricity", "physics"]
+      },
+      {
+        "question": "What is the atomic number?",
+        "answer": "The atomic number is the number of protons in an atom’s nucleus.",
+        "keywords": ["atomic number", "protons", "chemistry"]
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape.",
+        "keywords": ["black hole", "space", "astronomy"]
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "An exoplanet is a planet that orbits a star outside our solar system.",
+        "keywords": ["exoplanet", "astronomy", "space"]
+      },
+      {
+        "question": "What is the difference between a plant and an animal cell?",
+        "answer": "Plant cells have a cell wall and chloroplasts, while animal cells do not.",
+        "keywords": ["plant cell", "animal cell", "biology"]
+      },
+      {
+        "question": "What is a solvent?",
+        "answer": "A solvent is a substance that dissolves a solute to form a solution.",
+        "keywords": ["solvent", "solution", "chemistry"]
+      },
+      {
+        "question": "What is the function of the lungs?",
+        "answer": "The lungs help in the exchange of oxygen and carbon dioxide during respiration.",
+        "keywords": ["lungs", "respiration", "biology"]
+      },
+      {
+        "question": "What is a lever?",
+        "answer": "A lever is a simple machine that helps move a load using a fulcrum and effort.",
+        "keywords": ["lever", "simple machine", "physics"]
+      },
+      {
+        "question": "What is a habitat?",
+        "answer": "A habitat is the natural environment where an organism lives and grows.",
+        "keywords": ["habitat", "ecosystem", "biology"]
+      },
+      {
+        "question": "What is the function of the heart?",
+        "answer": "The heart pumps oxygenated blood to the body and deoxygenated blood to the lungs.",
+        "keywords": ["heart", "circulatory system", "biology"]
+      },
+      {
+        "question": "What is a chemical change?",
+        "answer": "A chemical change results in the formation of new substances with different properties.",
+        "keywords": ["chemical change", "reaction", "chemistry"]
+      },
+      {
+        "question": "What is a molecule?",
+        "answer": "A molecule is a group of two or more atoms chemically bonded together.",
+        "keywords": ["molecule", "atoms", "chemistry"]
+      },
+      {
+        "question": "What is the function of red blood cells?",
+        "answer": "Red blood cells transport oxygen from the lungs to the body's tissues.",
+        "keywords": ["red blood cells", "oxygen transport", "biology"]
+      },
+      {
+        "question": "What is a meteorite?",
+        "answer": "A meteorite is a fragment of a meteoroid that survives its passage through Earth's atmosphere and lands on the surface.",
+        "keywords": ["meteorite", "space", "astronomy"]
+      },
+      {
+        "question": "What is a galaxy?",
+        "answer": "A galaxy is a system of billions of stars, gas, and dust held together by gravity.",
+        "keywords": ["galaxy", "universe", "astronomy"]
+      },
+      {
+        "question": "What is a tsunami?",
+        "answer": "A tsunami is a large ocean wave caused by an underwater earthquake or volcanic eruption.",
+        "keywords": ["tsunami", "earthquake", "natural disaster"]
+      },
+      {
+        "question": "What is force?",
+        "answer": "Force is a push or pull that can cause an object to move, stop, or change direction.",
+        "keywords": ["force", "motion", "physics"]
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "An atom is the smallest unit of matter that retains the properties of an element.",
+        "keywords": ["atom", "matter", "chemistry"]
+      },
+      {
+        "question": "What is the function of the nervous system?",
+        "answer": "The nervous system controls body functions and transmits signals between different body parts.",
+        "keywords": ["nervous system", "brain", "biology"]
+      },
+      {
+        "question": "What are the types of energy?",
+        "answer": "Types of energy include kinetic, potential, thermal, chemical, and electrical energy.",
+        "keywords": ["energy", "kinetic", "potential", "physics"]
+      },
+      {
+        "question": "What is a magnetic field?",
+        "answer": "A magnetic field is the region around a magnet where magnetic forces act.",
+        "keywords": ["magnetic field", "magnetism", "physics"]
+      },
+      {
+        "question": "What is refraction?",
+        "answer": "Refraction is the bending of light as it passes from one medium to another due to a change in speed.",
+        "keywords": ["refraction", "light", "physics"]
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "An ecosystem is a community of living organisms interacting with their environment.",
+        "keywords": ["ecosystem", "environment", "biology"]
+      },
+      {
+        "question": "What is an adaptation?",
+        "answer": "An adaptation is a characteristic that helps an organism survive in its environment.",
+        "keywords": ["adaptation", "evolution", "biology"]
+      },
+      {
+        "question": "What are the different types of chemical bonds?",
+        "answer": "The main types of chemical bonds are covalent, ionic, and metallic bonds.",
+        "keywords": ["chemical bonds", "covalent", "ionic", "chemistry"]
+      },
+      {
+        "question": "What is the role of the sun in the water cycle?",
+        "answer": "The sun provides heat energy that causes water to evaporate, starting the water cycle.",
+        "keywords": ["sun", "water cycle", "earth science"]
+      },
+      {
+        "question": "What are acids and bases?",
+        "answer": "Acids have a pH less than 7 and release hydrogen ions, while bases have a pH greater than 7 and release hydroxide ions.",
+        "keywords": ["acids", "bases", "pH", "chemistry"]
+      },
+      {
+        "question": "What is conduction?",
+        "answer": "Conduction is the transfer of heat through a material without the movement of the material itself.",
+        "keywords": ["conduction", "heat transfer", "physics"]
+      },
+      {
+        "question": "What is the function of the liver?",
+        "answer": "The liver detoxifies chemicals, produces bile, and helps metabolize nutrients.",
+        "keywords": ["liver", "biology", "human body"]
+      },
+      {
+        "question": "What is a physical change?",
+        "answer": "A physical change is a change in the form of a substance without altering its chemical composition.",
+        "keywords": ["physical change", "matter", "chemistry"]
+      },
+      {
+        "question": "What is a nucleus in a cell?",
+        "answer": "The nucleus is the control center of a cell, containing genetic material (DNA).",
+        "keywords": ["nucleus", "cell biology", "DNA"]
+      },
+      {
+        "question": "What are producers in a food chain?",
+        "answer": "Producers, such as plants, make their own food using sunlight through photosynthesis.",
+        "keywords": ["producers", "food chain", "biology"]
+      },
+      {
+        "question": "What is a consumer in a food chain?",
+        "answer": "Consumers are organisms that obtain energy by eating plants or other animals.",
+        "keywords": ["consumers", "food chain", "biology"]
+      },
+      {
+        "question": "What is an omnivore?",
+        "answer": "An omnivore is an organism that eats both plants and animals.",
+        "keywords": ["omnivore", "food chain", "biology"]
+      },
+      {
+        "question": "What is the difference between weather and climate?",
+        "answer": "Weather refers to short-term atmospheric conditions, while climate describes long-term patterns.",
+        "keywords": ["weather", "climate", "earth science"]
+      },
+      {
+        "question": "What are renewable and nonrenewable resources?",
+        "answer": "Renewable resources replenish naturally, while nonrenewable resources take millions of years to form.",
+        "keywords": ["renewable resources", "energy", "earth science"]
+      },
+      {
+        "question": "What is a parallel circuit?",
+        "answer": "A parallel circuit has multiple paths for electric current to flow.",
+        "keywords": ["parallel circuit", "electricity", "physics"]
+      },
+      {
+        "question": "What is an electric current?",
+        "answer": "Electric current is the flow of electric charge through a conductor.",
+        "keywords": ["electric current", "charge", "physics"]
+      },
+      {
+        "question": "What is a lunar eclipse?",
+        "answer": "A lunar eclipse occurs when Earth blocks sunlight from reaching the moon.",
+        "keywords": ["lunar eclipse", "moon", "astronomy"]
+      },
+      {
+        "question": "What is an exothermic reaction?",
+        "answer": "An exothermic reaction releases heat energy to the surroundings.",
+        "keywords": ["exothermic reaction", "heat", "chemistry"]
+      },
+      {
+        "question": "What is an endothermic reaction?",
+        "answer": "An endothermic reaction absorbs heat energy from the surroundings.",
+        "keywords": ["endothermic reaction", "chemistry"]
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "An asteroid is a small rocky body orbiting the sun, mostly found in the asteroid belt.",
+        "keywords": ["asteroid", "space", "astronomy"]
+      },
+      {
+        "question": "What is the role of decomposers?",
+        "answer": "Decomposers break down dead organic material, returning nutrients to the soil.",
+        "keywords": ["decomposers", "bacteria", "biology"]
+      },
+      {
+        "question": "What is the difference between speed and velocity?",
+        "answer": "Speed is the distance traveled per unit time, while velocity includes direction.",
+        "keywords": ["speed", "velocity", "physics"]
+      },
+      {
+        "question": "What is a chemical reaction?",
+        "answer": "A chemical reaction is a process in which substances change into new substances.",
+        "keywords": ["chemical reaction", "chemistry"]
+      },
+      {
+        "question": "What are Newton’s three laws of motion?",
+        "answer": "Newton’s three laws explain inertia, force, and action-reaction forces.",
+        "keywords": ["Newton's laws", "motion", "physics"]
+      },
+      {
+        "question": "What is inertia?",
+        "answer": "Inertia is the tendency of an object to resist changes in its motion.",
+        "keywords": ["inertia", "physics"]
+      },
+      {
+        "question": "What is the function of platelets in blood?",
+        "answer": "Platelets help in blood clotting to prevent excessive bleeding.",
+        "keywords": ["platelets", "blood clotting", "biology"]
+      },
+      {
+        "question": "What are constellations?",
+        "answer": "Constellations are patterns of stars that form recognizable shapes in the night sky.",
+        "keywords": ["constellations", "stars", "astronomy"]
+      },
+      {
+        "question": "What is a food web?",
+        "answer": "A food web is a complex network of interconnected food chains in an ecosystem.",
+        "keywords": ["food web", "ecosystem", "biology"]
+      },
+      {
+        "question": "What is the function of the kidneys?",
+        "answer": "The kidneys filter waste from the blood and produce urine.",
+        "keywords": ["kidneys", "excretory system", "biology"]
+      },
+      {
+        "question": "What is inertia?",
+        "answer": "Inertia is the tendency of an object to resist changes in its motion.",
+        "keywords": ["inertia", "motion", "physics"]
+      },
+      {
+        "question": "What is Newton’s third law of motion?",
+        "answer": "For every action, there is an equal and opposite reaction.",
+        "keywords": ["Newton's third law", "motion", "physics"]
+      },
+      {
+        "question": "What is the unit of force?",
+        "answer": "The unit of force is the Newton (N).",
+        "keywords": ["force", "unit", "physics"]
+      },
+      {
+        "question": "What is an element?",
+        "answer": "An element is a pure substance that consists of only one type of atom.",
+        "keywords": ["element", "atom", "chemistry"]
+      },
+      {
+        "question": "What is an exothermic reaction?",
+        "answer": "An exothermic reaction releases heat energy to the surroundings.",
+        "keywords": ["exothermic reaction", "chemistry"]
+      },
+      {
+        "question": "What is the pH scale?",
+        "answer": "The pH scale measures the acidity or alkalinity of a substance, ranging from 0 to 14.",
+        "keywords": ["pH scale", "acid", "base", "chemistry"]
+      },
+      {
+        "question": "What is the function of the respiratory system?",
+        "answer": "The respiratory system helps in the exchange of oxygen and carbon dioxide.",
+        "keywords": ["respiratory system", "lungs", "biology"]
+      },
+      {
+        "question": "What is osmosis?",
+        "answer": "Osmosis is the movement of water molecules across a semipermeable membrane.",
+        "keywords": ["osmosis", "water movement", "biology"]
+      },
+      {
+        "question": "What causes earthquakes?",
+        "answer": "Earthquakes occur due to the movement of tectonic plates.",
+        "keywords": ["earthquake", "tectonic plates", "earth science"]
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The water cycle describes how water evaporates, condenses, and precipitates.",
+        "keywords": ["water cycle", "evaporation", "precipitation", "earth science"]
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "A supernova is a powerful explosion that occurs when a star reaches the end of its life.",
+        "keywords": ["supernova", "star explosion", "astronomy"]
+      },
+      {
+        "question": "What is the Milky Way?",
+        "answer": "The Milky Way is the galaxy that contains our solar system.",
+        "keywords": ["Milky Way", "galaxy", "astronomy"]
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial intelligence refers to machines that can perform tasks that typically require human intelligence.",
+        "keywords": ["AI", "artificial intelligence", "technology"]
+      },
+      {
+        "question": "What is a computer virus?",
+        "answer": "A computer virus is a malicious software program that can replicate itself and infect computers.",
+        "keywords": ["computer virus", "malware", "technology"]
+      },
+      {
+        "question": "What is friction?",
+        "answer": "Friction is a force that opposes the motion of objects in contact.",
+        "keywords": ["friction", "force", "physics"]
+      },
+      {
+        "question": "What is electromagnetism?",
+        "answer": "Electromagnetism is the interaction between electric currents and magnetic fields.",
+        "keywords": ["electromagnetism", "magnetism", "physics"]
+      },
+      {
+        "question": "What is refraction?",
+        "answer": "Refraction is the bending of light as it passes from one medium to another.",
+        "keywords": ["refraction", "light", "physics"]
+      },
+      {
+        "question": "What is density?",
+        "answer": "Density is the mass of a substance per unit volume.",
+        "keywords": ["density", "matter", "physics"]
+      },
+      {
+        "question": "What are noble gases?",
+        "answer": "Noble gases are elements in Group 18 of the periodic table that are chemically inert.",
+        "keywords": ["noble gases", "periodic table", "chemistry"]
+      },
+      {
+        "question": "What is an isotope?",
+        "answer": "Isotopes are atoms of the same element with different numbers of neutrons.",
+        "keywords": ["isotope", "atoms", "chemistry"]
+      },
+      {
+        "question": "What is diffusion?",
+        "answer": "Diffusion is the movement of particles from a high concentration to a low concentration.",
+        "keywords": ["diffusion", "particles", "biology"]
+      },
+      {
+        "question": "What is a habitat?",
+        "answer": "A habitat is the natural environment where an organism lives.",
+        "keywords": ["habitat", "ecosystem", "biology"]
+      },
+      {
+        "question": "What is a food chain?",
+        "answer": "A food chain shows the flow of energy from one organism to another in an ecosystem.",
+        "keywords": ["food chain", "ecosystem", "biology"]
+      },
+      {
+        "question": "What is an eclipse?",
+        "answer": "An eclipse occurs when one celestial body moves into the shadow of another.",
+        "keywords": ["eclipse", "astronomy", "solar system"]
+      },
+      {
+        "question": "What is an asteroid belt?",
+        "answer": "The asteroid belt is a region between Mars and Jupiter where most asteroids orbit.",
+        "keywords": ["asteroid belt", "space", "astronomy"]
+      },
+      {
+        "question": "What is the Hubble Space Telescope?",
+        "answer": "The Hubble Space Telescope is a powerful telescope in Earth's orbit that captures images of distant galaxies.",
+        "keywords": ["Hubble Telescope", "astronomy", "space"]
+      },
+      {
+        "question": "What is a circuit?",
+        "answer": "A circuit is a closed path through which electric current flows.",
+        "keywords": ["circuit", "electricity", "physics"]
+      },
+      {
+        "question": "What is a semiconductor?",
+        "answer": "A semiconductor is a material that conducts electricity under certain conditions.",
+        "keywords": ["semiconductor", "electronics", "technology"]
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "Gravity is the force that attracts objects toward each other.",
+        "keywords": ["gravity", "force", "physics"]
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "An ecosystem consists of living organisms interacting with their physical environment.",
+        "keywords": ["ecosystem", "biology", "environment"]
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "An exoplanet is a planet that orbits a star outside our solar system.",
+        "keywords": ["exoplanet", "space", "astronomy"]
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A neutron star is the collapsed core of a massive star after a supernova explosion.",
+        "keywords": ["neutron star", "supernova", "astronomy"]
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A comet is a celestial body made of ice, dust, and rock that orbits the sun.",
+        "keywords": ["comet", "astronomy", "solar system"]
+      },
+      {
+        "question": "What is renewable energy?",
+        "answer": "Renewable energy comes from sources that replenish naturally, such as wind and solar power.",
+        "keywords": ["renewable energy", "solar energy", "earth science"]
+      },
+      {
+        "question": "What is an ecosystem?",
+        "answer": "An ecosystem is a community of organisms interacting with their environment.",
+        "keywords": ["ecosystem", "environment", "biology"]
+      },
+      {
+        "question": "What is a volcano?",
+        "answer": "A volcano is an opening in the Earth's crust that allows molten rock to escape.",
+        "keywords": ["volcano", "lava", "earth science"]
+      },
+      {
+        "question": "What is a hurricane?",
+        "answer": "A hurricane is a large storm system with strong winds and heavy rain, formed over warm ocean waters.",
+        "keywords": ["hurricane", "weather", "earth science"]
+      },
+      {
+        "question": "What is an adaptation?",
+        "answer": "An adaptation is a feature that helps an organism survive in its environment.",
+        "keywords": ["adaptation", "evolution", "biology"]
+      },
+      {
+        "question": "What is the ozone layer?",
+        "answer": "The ozone layer protects Earth from harmful ultraviolet radiation.",
+        "keywords": ["ozone layer", "UV radiation", "earth science"]
+      },
+      {
+        "question": "What is potential energy?",
+        "answer": "Potential energy is stored energy due to an object's position or condition.",
+        "keywords": ["potential energy", "energy", "physics"]
+      },
+      {
+        "question": "What is the speed of sound?",
+        "answer": "The speed of sound in air is approximately 343 meters per second.",
+        "keywords": ["speed of sound", "wave", "physics"]
+      },
+      {
+        "question": "What is a chemical reaction?",
+        "answer": "A chemical reaction is a process in which substances change into new substances with different properties.",
+        "keywords": ["chemical reaction", "chemistry"]
+      },
+      {
+        "question": "What is an acid?",
+        "answer": "An acid is a substance that increases the hydrogen ion concentration in a solution.",
+        "keywords": ["acid", "pH", "chemistry"]
+      },
+      {
+        "question": "What is a gene?",
+        "answer": "A gene is a segment of DNA that contains instructions for making proteins.",
+        "keywords": ["gene", "DNA", "genetics", "biology"]
+      },
+      {
+        "question": "What is respiration?",
+        "answer": "Respiration is the process by which cells break down glucose to produce energy.",
+        "keywords": ["respiration", "oxygen", "biology"]
+      },
+      {
+        "question": "What causes seasons?",
+        "answer": "Seasons are caused by Earth's tilt and its orbit around the Sun.",
+        "keywords": ["seasons", "Earth", "astronomy"]
+      },
+      {
+        "question": "What is a fossil?",
+        "answer": "A fossil is the preserved remains or traces of ancient organisms.",
+        "keywords": ["fossil", "paleontology", "earth science"]
+      },
+      {
+        "question": "What is a nebula?",
+        "answer": "A nebula is a cloud of gas and dust in space where stars are born.",
+        "keywords": ["nebula", "space", "astronomy"]
+      },
+      {
+        "question": "What is dark matter?",
+        "answer": "Dark matter is a mysterious substance that makes up most of the universe's mass but does not emit light.",
+        "keywords": ["dark matter", "universe", "astronomy"]
+      },
+      {
+        "question": "What is a robot?",
+        "answer": "A robot is a machine that can carry out tasks automatically, often controlled by software or AI.",
+        "keywords": ["robot", "technology", "AI"]
+      },
+      {
+        "question": "What is cybersecurity?",
+        "answer": "Cybersecurity refers to the protection of computer systems from digital attacks.",
+        "keywords": ["cybersecurity", "hacking", "technology"]
+      },
+      {
+        "question": "What is friction?",
+        "answer": "Friction is a force that opposes the motion of objects in contact.",
+        "keywords": ["friction", "force", "physics"]
+      },
+      {
+        "question": "What is electromagnetism?",
+        "answer": "Electromagnetism is the interaction between electric currents and magnetic fields.",
+        "keywords": ["electromagnetism", "magnetism", "physics"]
+      },
+      {
+        "question": "What is density?",
+        "answer": "Density is the mass of a substance per unit volume.",
+        "keywords": ["density", "matter", "physics"]
+      },
+      {
+        "question": "What is diffusion?",
+        "answer": "Diffusion is the movement of particles from a high concentration to a low concentration.",
+        "keywords": ["diffusion", "particles", "biology"]
+      },
+      {
+        "question": "What is a food web?",
+        "answer": "A food web is a complex network of interconnected food chains in an ecosystem.",
+        "keywords": ["food web", "ecosystem", "biology"]
+      },
+      {
+        "question": "What is a tsunami?",
+        "answer": "A tsunami is a large ocean wave caused by an underwater earthquake or volcanic eruption.",
+        "keywords": ["tsunami", "earthquake", "natural disaster"]
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "An exoplanet is a planet that orbits a star outside our solar system.",
+        "keywords": ["exoplanet", "space", "astronomy"]
+      },
+      {
+        "question": "What is renewable energy?",
+        "answer": "Renewable energy comes from sources that replenish naturally, such as wind and solar power.",
+        "keywords": ["renewable energy", "solar energy", "earth science"]
+      },
+      {
+        "question": "What is a volcano?",
+        "answer": "A volcano is an opening in the Earth's crust that allows molten rock to escape.",
+        "keywords": ["volcano", "lava", "earth science"]
+      },
+      {
+        "question": "What is an adaptation?",
+        "answer": "An adaptation is a feature that helps an organism survive in its environment.",
+        "keywords": ["adaptation", "evolution", "biology"]
+      },
+      {
+        "question": "What is the ozone layer?",
+        "answer": "The ozone layer protects Earth from harmful ultraviolet radiation.",
+        "keywords": ["ozone layer", "UV radiation", "earth science"]
+      },
+      {
+        "question": "What is an asteroid belt?",
+        "answer": "The asteroid belt is a region between Mars and Jupiter where most asteroids orbit.",
+        "keywords": ["asteroid belt", "space", "astronomy"]
+      },
+      {
+        "question": "What is the Hubble Space Telescope?",
+        "answer": "The Hubble Space Telescope is a powerful telescope in Earth's orbit that captures images of distant galaxies.",
+        "keywords": ["Hubble Telescope", "astronomy", "space"]
+      },
+      {
+        "question": "What is a circuit?",
+        "answer": "A circuit is a closed path through which electric current flows.",
+        "keywords": ["circuit", "electricity", "physics"]
+      },
+      {
+        "question": "What is gravity?",
+        "answer": "Gravity is the force that attracts objects toward each other.",
+        "keywords": ["gravity", "force", "physics"]
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A comet is a celestial body made of ice, dust, and rock that orbits the sun.",
+        "keywords": ["comet", "astronomy", "solar system"]
+      },
+      {
+        "question": "What is kinetic energy?",
+        "answer": "Kinetic energy is the energy possessed by a moving object.",
+        "keywords": ["kinetic energy", "motion", "physics"]
+      },
+      {
+        "question": "What is work in physics?",
+        "answer": "Work is done when a force is applied to an object and the object moves in the direction of the force.",
+        "keywords": ["work", "force", "physics"]
+      },
+      {
+        "question": "What is a molecule?",
+        "answer": "A molecule is a group of two or more atoms chemically bonded together.",
+        "keywords": ["molecule", "atoms", "chemistry"]
+      },
+      {
+        "question": "What is a solution?",
+        "answer": "A solution is a homogeneous mixture of two or more substances.",
+        "keywords": ["solution", "mixture", "chemistry"]
+      },
+      {
+        "question": "What is mitosis?",
+        "answer": "Mitosis is a process of cell division that results in two identical daughter cells.",
+        "keywords": ["mitosis", "cell division", "biology"]
+      },
+      {
+        "question": "What is photosynthesis?",
+        "answer": "Photosynthesis is the process by which plants convert sunlight into energy.",
+        "keywords": ["photosynthesis", "plants", "biology"]
+      },
+      {
+        "question": "What is a hurricane?",
+        "answer": "A hurricane is a large, rotating storm system that forms over warm ocean waters.",
+        "keywords": ["hurricane", "weather", "earth science"]
+      },
+      {
+        "question": "What is a mineral?",
+        "answer": "A mineral is a naturally occurring solid with a specific chemical composition and structure.",
+        "keywords": ["mineral", "geology", "earth science"]
+      },
+      {
+        "question": "What is the Big Bang Theory?",
+        "answer": "The Big Bang Theory is the scientific explanation of how the universe began as a singularity and expanded.",
+        "keywords": ["Big Bang Theory", "universe", "astronomy"]
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A black hole is a region in space where gravity is so strong that nothing can escape.",
+        "keywords": ["black hole", "space", "astronomy"]
+      },
+      {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a type of artificial intelligence that allows computers to learn from data.",
+        "keywords": ["machine learning", "AI", "technology"]
+      },
+      {
+        "question": "What is a microprocessor?",
+        "answer": "A microprocessor is the central processing unit (CPU) of a computer that performs calculations.",
+        "keywords": ["microprocessor", "computer", "technology"]
+      },
+      {
+        "question": "What is nuclear energy?",
+        "answer": "Nuclear energy is the energy released during nuclear fission or fusion reactions.",
+        "keywords": ["nuclear energy", "fission", "fusion", "physics"]
+      },
+      {
+        "question": "What is an antibiotic?",
+        "answer": "An antibiotic is a type of medicine used to kill or inhibit the growth of bacteria.",
+        "keywords": ["antibiotic", "medicine", "biology"]
+      },
+      {
+        "question": "What is global warming?",
+        "answer": "Global warming refers to the increase in Earth's average temperature due to greenhouse gas emissions.",
+        "keywords": ["global warming", "climate change", "earth science"]
+      },
+      {
+        "question": "What is a tsunami?",
+        "answer": "A tsunami is a large ocean wave caused by an underwater earthquake or volcanic eruption.",
+        "keywords": ["tsunami", "earthquake", "natural disaster"]
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial intelligence is the simulation of human intelligence in machines.",
+        "keywords": ["artificial intelligence", "AI", "technology"]
+      },
+      {
+        "question": "What is a solar panel?",
+        "answer": "A solar panel is a device that converts sunlight into electricity.",
+        "keywords": ["solar panel", "renewable energy", "earth science"]
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The greenhouse effect occurs when gases in the atmosphere trap heat, keeping Earth warm.",
+        "keywords": ["greenhouse effect", "climate change", "earth science"]
+      },
+      {
+        "question": "What is an electromagnet?",
+        "answer": "An electromagnet is a magnet created by passing electric current through a coil of wire.",
+        "keywords": ["electromagnet", "electricity", "physics"]
+      },
+      {
+        "question": "What is a gene mutation?",
+        "answer": "A gene mutation is a permanent change in the DNA sequence of a gene.",
+        "keywords": ["gene mutation", "DNA", "biology"]
+      },
+      {
+        "question": "What is an electric circuit?",
+        "answer": "An electric circuit is a closed path through which electric current flows.",
+        "keywords": ["electric circuit", "current", "physics"]
+      },
+      {
+        "question": "What is the function of the brain?",
+        "answer": "The brain controls body functions, emotions, and thought processes.",
+        "keywords": ["brain", "nervous system", "biology"]
+      },
+      {
+        "question": "What is a galaxy?",
+        "answer": "A galaxy is a system of billions of stars, gas, and dust bound together by gravity.",
+        "keywords": ["galaxy", "universe", "astronomy"]
+      },
+      {
+        "question": "What is momentum?",
+        "answer": "Momentum is the product of an object's mass and velocity.",
+        "keywords": ["momentum", "velocity", "physics"]
+      },
+      {
+        "question": "What is the Doppler Effect?",
+        "answer": "The Doppler Effect is the change in frequency or wavelength of a wave in relation to an observer moving relative to the wave source.",
+        "keywords": ["Doppler Effect", "waves", "physics"]
+      },
+      {
+        "question": "What is a catalyst?",
+        "answer": "A catalyst is a substance that increases the rate of a chemical reaction without being consumed.",
+        "keywords": ["catalyst", "reaction rate", "chemistry"]
+      },
+      {
+        "question": "What is electrolysis?",
+        "answer": "Electrolysis is a process that uses electricity to cause a chemical change, usually breaking down a compound.",
+        "keywords": ["electrolysis", "chemistry"]
+      },
+      {
+        "question": "What is homeostasis?",
+        "answer": "Homeostasis is the process by which living organisms maintain a stable internal environment.",
+        "keywords": ["homeostasis", "biology"]
+      },
+      {
+        "question": "What is DNA replication?",
+        "answer": "DNA replication is the process of copying DNA before cell division.",
+        "keywords": ["DNA replication", "genetics", "biology"]
+      },
+      {
+        "question": "What are tectonic plates?",
+        "answer": "Tectonic plates are large sections of Earth's crust that move due to geological activity.",
+        "keywords": ["tectonic plates", "earthquakes", "earth science"]
+      },
+      {
+        "question": "What is the rock cycle?",
+        "answer": "The rock cycle describes the transitions between igneous, sedimentary, and metamorphic rocks.",
+        "keywords": ["rock cycle", "geology", "earth science"]
+      },
+      {
+        "question": "What is a quasar?",
+        "answer": "A quasar is an extremely bright and distant active galactic nucleus powered by a supermassive black hole.",
+        "keywords": ["quasar", "black hole", "astronomy"]
+      },
+      {
+        "question": "What is a white dwarf?",
+        "answer": "A white dwarf is a small, dense star that is the remnant of a low-mass star after it has exhausted its nuclear fuel.",
+        "keywords": ["white dwarf", "star", "astronomy"]
+      },
+      {
+        "question": "What is quantum computing?",
+        "answer": "Quantum computing is a type of computing that uses quantum bits (qubits) instead of traditional binary bits.",
+        "keywords": ["quantum computing", "technology"]
+      },
+      {
+        "question": "What is a blockchain?",
+        "answer": "Blockchain is a decentralized, distributed ledger used for recording transactions securely.",
+        "keywords": ["blockchain", "cryptocurrency", "technology"]
+      },
+      {
+        "question": "What is an asteroid belt?",
+        "answer": "The asteroid belt is a region between Mars and Jupiter where most asteroids orbit.",
+        "keywords": ["asteroid belt", "space", "astronomy"]
+      },
+      {
+        "question": "What is nuclear fusion?",
+        "answer": "Nuclear fusion is a process in which atomic nuclei combine to form a heavier nucleus, releasing energy.",
+        "keywords": ["nuclear fusion", "energy", "physics"]
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The greenhouse effect is the trapping of heat in Earth's atmosphere by greenhouse gases.",
+        "keywords": ["greenhouse effect", "climate change", "earth science"]
+      },
+      {
+        "question": "What is a tsunami?",
+        "answer": "A tsunami is a large ocean wave caused by an underwater earthquake or volcanic eruption.",
+        "keywords": ["tsunami", "earthquake", "natural disaster"]
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial intelligence is the simulation of human intelligence in machines.",
+        "keywords": ["artificial intelligence", "AI", "technology"]
+      },
+      {
+        "question": "What is a solar panel?",
+        "answer": "A solar panel is a device that converts sunlight into electricity.",
+        "keywords": ["solar panel", "renewable energy", "earth science"]
+      },
+      {
+        "question": "What is an electromagnet?",
+        "answer": "An electromagnet is a magnet created by passing electric current through a coil of wire.",
+        "keywords": ["electromagnet", "electricity", "physics"]
+      },
+      {
+        "question": "What is a gene mutation?",
+        "answer": "A gene mutation is a permanent change in the DNA sequence of a gene.",
+        "keywords": ["gene mutation", "DNA", "biology"]
+      },
+      {
+        "question": "What is an electric circuit?",
+        "answer": "An electric circuit is a closed path through which electric current flows.",
+        "keywords": ["electric circuit", "current", "physics"]
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A neutron star is the collapsed core of a massive star after a supernova explosion.",
+        "keywords": ["neutron star", "supernova", "astronomy"]
+      },
+      {
+        "question": "What is the function of the brain?",
+        "answer": "The brain controls body functions, emotions, and thought processes.",
+        "keywords": ["brain", "nervous system", "biology"]
+      },
+      {
+        "question": "What is a galaxy?",
+        "answer": "A galaxy is a system of billions of stars, gas, and dust bound together by gravity.",
+        "keywords": ["galaxy", "universe", "astronomy"]
+      },
+      {
+        "question": "What is centrifugal force?",
+        "answer": "Centrifugal force is the apparent force that acts outward on a body moving in a circular path.",
+        "keywords": ["centrifugal force", "motion", "physics"]
+      },
+      {
+        "question": "What is Archimedes’ Principle?",
+        "answer": "Archimedes’ Principle states that a body submerged in a fluid experiences an upward force equal to the weight of the displaced fluid.",
+        "keywords": ["Archimedes’ Principle", "buoyancy", "physics"]
+      },
+      {
+        "question": "What is the difference between a mixture and a compound?",
+        "answer": "A mixture consists of two or more substances physically combined, while a compound is made of two or more elements chemically bonded.",
+        "keywords": ["mixture", "compound", "chemistry"]
+      },
+      {
+        "question": "What is sublimation?",
+        "answer": "Sublimation is the process where a solid changes directly into a gas without passing through the liquid state.",
+        "keywords": ["sublimation", "phase change", "chemistry"]
+      },
+      {
+        "question": "What is the function of the heart?",
+        "answer": "The heart pumps blood throughout the body, supplying oxygen and nutrients.",
+        "keywords": ["heart", "circulatory system", "biology"]
+      },
+      {
+        "question": "What is the difference between arteries and veins?",
+        "answer": "Arteries carry oxygen-rich blood away from the heart, while veins carry oxygen-poor blood back to the heart.",
+        "keywords": ["arteries", "veins", "circulatory system", "biology"]
+      },
+      {
+        "question": "What is the difference between magma and lava?",
+        "answer": "Magma is molten rock beneath the Earth's surface, while lava is magma that has reached the surface.",
+        "keywords": ["magma", "lava", "earth science"]
+      },
+      {
+        "question": "What is a weathering process?",
+        "answer": "Weathering is the breakdown of rocks and minerals due to physical, chemical, or biological processes.",
+        "keywords": ["weathering", "erosion", "earth science"]
+      },
+      {
+        "question": "What is a pulsar?",
+        "answer": "A pulsar is a rapidly rotating neutron star that emits beams of electromagnetic radiation.",
+        "keywords": ["pulsar", "neutron star", "astronomy"]
+      },
+      {
+        "question": "What is a red giant?",
+        "answer": "A red giant is a late-stage star that has expanded and cooled after exhausting its hydrogen fuel.",
+        "keywords": ["red giant", "star", "astronomy"]
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "An algorithm is a set of step-by-step instructions used to perform a task or solve a problem.",
+        "keywords": ["algorithm", "computing", "technology"]
+      },
+      {
+        "question": "What is 3D printing?",
+        "answer": "3D printing is a process that creates three-dimensional objects by adding material layer by layer.",
+        "keywords": ["3D printing", "technology", "manufacturing"]
+      },
+      {
+        "question": "What is a biome?",
+        "answer": "A biome is a large ecosystem characterized by specific climate, plants, and animals.",
+        "keywords": ["biome", "ecosystem", "biology"]
+      },
+      {
+        "question": "What is the function of the liver?",
+        "answer": "The liver detoxifies chemicals, produces bile, and helps digest food.",
+        "keywords": ["liver", "digestion", "biology"]
+      },
+      {
+        "question": "What is a simple machine?",
+        "answer": "A simple machine is a basic mechanical device that helps reduce effort, such as a lever or pulley.",
+        "keywords": ["simple machine", "lever", "physics"]
+      },
+      {
+        "question": "What is an exothermic reaction?",
+        "answer": "An exothermic reaction is a chemical reaction that releases heat energy.",
+        "keywords": ["exothermic reaction", "heat", "chemistry"]
+      },
+      {
+        "question": "What is an endothermic reaction?",
+        "answer": "An endothermic reaction absorbs heat energy from its surroundings.",
+        "keywords": ["endothermic reaction", "chemistry"]
+      },
+      {
+        "question": "What is an aquifer?",
+        "answer": "An aquifer is an underground layer of rock or sediment that holds groundwater.",
+        "keywords": ["aquifer", "groundwater", "earth science"]
+      },
+      {
+        "question": "What is a geyser?",
+        "answer": "A geyser is a hot spring that periodically erupts with steam and water.",
+        "keywords": ["geyser", "volcanic activity", "earth science"]
+      },
+      {
+        "question": "What is a neutron?",
+        "answer": "A neutron is a subatomic particle found in the nucleus of an atom with no electric charge.",
+        "keywords": ["neutron", "atom", "physics"]
+      },
+      {
+        "question": "What is a proton?",
+        "answer": "A proton is a positively charged subatomic particle found in the nucleus of an atom.",
+        "keywords": ["proton", "atom", "physics"]
+      },
+      {
+        "question": "What is the speed of light?",
+        "answer": "The speed of light in a vacuum is approximately 299,792,458 meters per second.",
+        "keywords": ["speed of light", "physics"]
+      },
+      {
+        "question": "What is a lunar eclipse?",
+        "answer": "A lunar eclipse occurs when the Earth comes between the Sun and the Moon, casting a shadow on the Moon.",
+        "keywords": ["lunar eclipse", "moon", "astronomy"]
+      },
+      {
+        "question": "What is a solar eclipse?",
+        "answer": "A solar eclipse occurs when the Moon passes between the Earth and the Sun, blocking sunlight.",
+        "keywords": ["solar eclipse", "sun", "astronomy"]
+      },
+      {
+        "question": "What is torque?",
+        "answer": "Torque is the measure of the force that can cause an object to rotate about an axis.",
+        "keywords": ["torque", "rotation", "physics"]
+      },
+      {
+        "question": "What is resonance?",
+        "answer": "Resonance occurs when an object vibrates at its natural frequency due to an external force.",
+        "keywords": ["resonance", "waves", "physics"]
+      },
+      {
+        "question": "What is a covalent bond?",
+        "answer": "A covalent bond is a chemical bond where two atoms share electrons.",
+        "keywords": ["covalent bond", "electrons", "chemistry"]
+      },
+      {
+        "question": "What is an ionic bond?",
+        "answer": "An ionic bond is formed when one atom donates an electron to another, creating positive and negative ions.",
+        "keywords": ["ionic bond", "chemical bonding", "chemistry"]
+      },
+      {
+        "question": "What is fermentation?",
+        "answer": "Fermentation is a process where microorganisms break down substances to produce energy without oxygen.",
+        "keywords": ["fermentation", "energy", "biology"]
+      },
+      {
+        "question": "What is a hormone?",
+        "answer": "A hormone is a chemical messenger produced by glands that regulate body functions.",
+        "keywords": ["hormone", "endocrine system", "biology"]
+      },
+      {
+        "question": "What is a glacier?",
+        "answer": "A glacier is a large mass of ice that moves slowly over land.",
+        "keywords": ["glacier", "ice", "earth science"]
+      },
+      {
+        "question": "What is a sinkhole?",
+        "answer": "A sinkhole is a depression in the ground caused by the collapse of a surface layer.",
+        "keywords": ["sinkhole", "geology", "earth science"]
+      },
+      {
+        "question": "What is a comet tail made of?",
+        "answer": "A comet tail is made of gas and dust particles that are pushed away from the comet by solar wind and radiation.",
+        "keywords": ["comet tail", "astronomy", "space"]
+      },
+      {
+        "question": "What is an aurora?",
+        "answer": "An aurora is a natural light display in the Earth's sky caused by the interaction of solar particles with the atmosphere.",
+        "keywords": ["aurora", "northern lights", "astronomy"]
+      },
+      {
+        "question": "What is a semiconductor?",
+        "answer": "A semiconductor is a material that has electrical conductivity between a conductor and an insulator.",
+        "keywords": ["semiconductor", "electronics", "technology"]
+      },
+      {
+        "question": "What is nanotechnology?",
+        "answer": "Nanotechnology is the manipulation of matter on an atomic or molecular scale.",
+        "keywords": ["nanotechnology", "materials science", "technology"]
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "An asteroid is a small, rocky object that orbits the Sun, mainly in the asteroid belt.",
+        "keywords": ["asteroid", "space", "astronomy"]
+      },
+      {
+        "question": "What is the function of platelets?",
+        "answer": "Platelets help in blood clotting to prevent excessive bleeding.",
+        "keywords": ["platelets", "blood clotting", "biology"]
+      },
+      {
+        "question": "What is an amphibian?",
+        "answer": "An amphibian is a cold-blooded vertebrate that can live both on land and in water.",
+        "keywords": ["amphibian", "biology", "animals"]
+      },
+      {
+        "question": "What is a volcano?",
+        "answer": "A volcano is an opening in the Earth's crust that allows molten rock, gases, and ash to escape.",
+        "keywords": ["volcano", "lava", "earth science"]
+      },
+      {
+        "question": "What is a barometer?",
+        "answer": "A barometer is an instrument used to measure atmospheric pressure.",
+        "keywords": ["barometer", "pressure", "weather"]
+      },
+      {
+        "question": "What is a prism?",
+        "answer": "A prism is a transparent optical element that refracts light, separating it into different colors.",
+        "keywords": ["prism", "light refraction", "physics"]
+      },
+      {
+        "question": "What is a geyser?",
+        "answer": "A geyser is a natural hot spring that periodically erupts with steam and water.",
+        "keywords": ["geyser", "geothermal", "earth science"]
+      },
+      {
+        "question": "What is a meteor?",
+        "answer": "A meteor is a small rocky or metallic body that enters Earth's atmosphere and burns up, producing a streak of light.",
+        "keywords": ["meteor", "shooting star", "astronomy"]
+      },
+      {
+        "question": "What is kinetic friction?",
+        "answer": "Kinetic friction is the force that opposes the motion of two surfaces sliding past each other.",
+        "keywords": ["kinetic friction", "force", "physics"]
+      },
+      {
+        "question": "What is a thermistor?",
+        "answer": "A thermistor is a type of resistor whose resistance changes with temperature.",
+        "keywords": ["thermistor", "electronics", "technology"]
+      },
+      {
+        "question": "What is nuclear fission?",
+        "answer": "Nuclear fission is a reaction in which an atomic nucleus splits into smaller parts, releasing energy.",
+        "keywords": ["nuclear fission", "energy", "physics"]
+      },
+      {
+        "question": "What is a bioluminescent organism?",
+        "answer": "A bioluminescent organism produces and emits light through chemical reactions.",
+        "keywords": ["bioluminescence", "light emission", "biology"]
+      },
+      {
+        "question": "What is absolute zero?",
+        "answer": "Absolute zero is the lowest possible temperature, at which all molecular motion stops, equal to -273.15°C or 0 Kelvin.",
+        "keywords": ["absolute zero", "temperature", "physics"]
+      },
+      {
+        "question": "What are the main components of food?",
+        "answer": "The main components of food are carbohydrates, proteins, fats, vitamins, and minerals.",
+        "keywords": ["food", "components", "nutrition"]
+    },
+    {
+        "question": "How does light travel?",
+        "answer": "Light travels in straight lines as waves and can be reflected, refracted, or absorbed.",
+        "keywords": ["light", "travel", "physics"]
+    },
+    {
+        "question": "What is the function of roots in plants?",
+        "answer": "Roots anchor the plant in the soil, absorb water and nutrients, and store food.",
+        "keywords": ["roots", "plants", "biology"]
+    },
+    {
+        "question": "What is the role of air in the water cycle?",
+        "answer": "Air helps in the evaporation of water, forming clouds, and eventually leading to precipitation.",
+        "keywords": ["air", "water cycle", "environment"]
+    },
+    {
+        "question": "What is motion?",
+        "answer": "Motion is the change in position of an object with respect to time.",
+        "keywords": ["motion", "physics", "movement"]
+    },
+    {
+        "question": "What is the importance of water for living organisms?",
+        "answer": "Water is essential for life as it is involved in various biological processes, including digestion, temperature regulation, and nutrient transport.",
+        "keywords": ["water", "living organisms", "biology"]
+    },
+    {
+        "question": "How do plants make their food?",
+        "answer": "Plants make their food through photosynthesis, using sunlight, carbon dioxide, and water to produce glucose and oxygen.",
+        "keywords": ["photosynthesis", "plants", "food"]
+    },
+    {
+        "question": "What is electricity?",
+        "answer": "Electricity is the flow of electric charge, typically through a conductor, and is used to power devices and appliances.",
+        "keywords": ["electricity", "charge", "physics"]
+    },
+    {
+        "question": "What are the different states of matter?",
+        "answer": "The different states of matter are solid, liquid, and gas, each with distinct properties.",
+        "keywords": ["states of matter", "solid", "liquid", "gas"]
+    },
+    {
+        "question": "How do animals adapt to their environment?",
+        "answer": "Animals adapt to their environment through physical and behavioral changes that enhance their survival and reproduction.",
+        "keywords": ["animals", "adaptation", "environment"]
+    },
+    {
+        "question": "What is the role of the sun in the water cycle?",
+        "answer": "The sun provides the energy needed for evaporation, driving the water cycle by turning liquid water into vapor.",
+        "keywords": ["sun", "water cycle", "evaporation"]
+    },
+    {
+        "question": "What is the difference between transparent, translucent, and opaque materials?",
+        "answer": "Transparent materials allow light to pass through clearly, translucent materials allow some light through but scatter it, and opaque materials do not allow light to pass through.",
+        "keywords": ["transparent", "translucent", "opaque", "materials"]
+    },
+    {
+        "question": "What is the function of leaves in plants?",
+        "answer": "Leaves are responsible for photosynthesis, the process of converting light energy into chemical energy in the form of glucose.",
+        "keywords": ["leaves", "photosynthesis", "plants"]
+    },
+    {
+        "question": "How does air pressure affect weather?",
+        "answer": "Air pressure affects weather by influencing wind patterns and precipitation; high pressure usually leads to clear skies, while low pressure can result in storms.",
+        "keywords": ["air pressure", "weather", "meteorology"]
+    },
+    {
+        "question": "What is the water cycle?",
+        "answer": "The water cycle is the continuous movement of water on, above, and below the surface of the Earth, involving processes like evaporation, condensation, and precipitation.",
+        "keywords": ["water cycle", "evaporation", "condensation", "precipitation"]
+    },
+    {
+        "question": "What is the role of chlorophyll in plants?",
+        "answer": "Chlorophyll is a pigment in plants that absorbs sunlight, enabling the process of photosynthesis to produce food.",
+        "keywords": ["chlorophyll", "photosynthesis", "plants"]
+    },
+    {
+        "question": "What is the difference between conductors and insulators?",
+        "answer": "Conductors allow the flow of electric charge, while insulators resist it, preventing the flow of electricity.",
+        "keywords": ["conductors", "insulators", "electricity"]
+    },
+    {
+        "question": "How do living organisms obtain energy?",
+        "answer": "Living organisms obtain energy through the consumption of food, which is broken down into nutrients and converted into energy.",
+        "keywords": ["energy", "living organisms", "nutrition"]
+    },
+    {
+        "question": "What is the importance of the atmosphere?",
+        "answer": "The atmosphere is important as it protects life on Earth by blocking harmful solar radiation, regulating temperature, and providing essential gases.",
+        "keywords": ["atmosphere", "Earth", "protection"]
+    },
+    {
+        "question": "What is the role of the digestive system in animals?",
+        "answer": "The digestive system breaks down food into nutrients that can be absorbed and used by the body for energy, growth, and repair.",
+        "keywords": ["digestive system", "animals", "nutrition"]
+    },
+    {
+        "question": "What is the first law of thermodynamics?",
+        "answer": "The first law of thermodynamics states that energy cannot be created or destroyed, only transferred or transformed.",
+        "keywords": ["first law of thermodynamics", "energy", "physics"]
+      },
+      {
+        "question": "What is refraction?",
+        "answer": "Refraction is the bending of light as it passes from one medium to another.",
+        "keywords": ["refraction", "light", "physics"]
+      },
+      {
+        "question": "What is a polymer?",
+        "answer": "A polymer is a large molecule composed of repeating subunits called monomers.",
+        "keywords": ["polymer", "molecule", "chemistry"]
+      },
+      {
+        "question": "What is a precipitate?",
+        "answer": "A precipitate is an insoluble solid that forms from a chemical reaction in a solution.",
+        "keywords": ["precipitate", "reaction", "chemistry"]
+      },
+      {
+        "question": "What is the role of mitochondria?",
+        "answer": "Mitochondria are the powerhouses of the cell, generating energy in the form of ATP.",
+        "keywords": ["mitochondria", "cell biology", "biology"]
+      },
+      {
+        "question": "What is symbiosis?",
+        "answer": "Symbiosis is a close and long-term interaction between two different biological species.",
+        "keywords": ["symbiosis", "organisms", "biology"]
+      },
+      {
+        "question": "What is a watershed?",
+        "answer": "A watershed is an area of land where all the water drains into a common water body.",
+        "keywords": ["watershed", "hydrology", "earth science"]
+      },
+      {
+        "question": "What is a fault line?",
+        "answer": "A fault line is a crack in Earth's crust along which movement has occurred.",
+        "keywords": ["fault line", "earthquakes", "earth science"]
+      },
+      {
+        "question": "What is a dwarf planet?",
+        "answer": "A dwarf planet is a celestial body that orbits the Sun and has not cleared its orbit of other debris.",
+        "keywords": ["dwarf planet", "astronomy", "space"]
+      },
+      {
+        "question": "What is an exoplanet?",
+        "answer": "An exoplanet is a planet that orbits a star outside our solar system.",
+        "keywords": ["exoplanet", "planets", "astronomy"]
+      },
+      {
+        "question": "What is artificial intelligence?",
+        "answer": "Artificial intelligence is the simulation of human intelligence in machines.",
+        "keywords": ["artificial intelligence", "AI", "technology"]
+      },
+      {
+        "question": "What is virtual reality?",
+        "answer": "Virtual reality is a computer-generated simulation that allows users to interact with a 3D environment.",
+        "keywords": ["virtual reality", "VR", "technology"]
+      },
+      {
+        "question": "What is a biome?",
+        "answer": "A biome is a large ecosystem characterized by specific climate, plants, and animals.",
+        "keywords": ["biome", "ecosystem", "biology"]
+      },
+      {
+        "question": "What is the role of the ozone layer?",
+        "answer": "The ozone layer absorbs and protects Earth from harmful ultraviolet radiation from the sun.",
+        "keywords": ["ozone layer", "UV radiation", "earth science"]
+      },
+      {
+        "question": "What is a neutron star?",
+        "answer": "A neutron star is the dense, collapsed core of a massive star after a supernova explosion.",
+        "keywords": ["neutron star", "supernova", "astronomy"]
+      },
+      {
+        "question": "What is a tsunami?",
+        "answer": "A tsunami is a series of large ocean waves caused by underwater earthquakes or volcanic eruptions.",
+        "keywords": ["tsunami", "earthquake", "natural disaster"]
+      },
+      {
+        "question": "What is nuclear fusion?",
+        "answer": "Nuclear fusion is the process where two atomic nuclei combine to form a heavier nucleus, releasing energy.",
+        "keywords": ["nuclear fusion", "energy", "physics"]
+      },
+      {
+        "question": "What is a comet?",
+        "answer": "A comet is a small icy celestial body that orbits the Sun and develops a tail when near it.",
+        "keywords": ["comet", "astronomy", "solar system"]
+      },
+      {
+        "question": "What is an electromagnet?",
+        "answer": "An electromagnet is a magnet created by passing electric current through a coil of wire.",
+        "keywords": ["electromagnet", "electricity", "physics"]
+      },
+      {
+        "question": "What is the water cycle?",
+        "answer": "The water cycle is the continuous movement of water between Earth's surface and atmosphere through evaporation, condensation, and precipitation.",
+        "keywords": ["water cycle", "evaporation", "earth science"]
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape.",
+        "keywords": ["black hole", "space", "astronomy"]
+      },
+      {
+        "question": "What is a solar panel?",
+        "answer": "A solar panel is a device that converts sunlight into electrical energy.",
+        "keywords": ["solar panel", "renewable energy", "technology"]
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The greenhouse effect is the trapping of heat in Earth's atmosphere by greenhouse gases, keeping the planet warm.",
+        "keywords": ["greenhouse effect", "climate change", "earth science"]
+      },
+      {
+        "question": "What is a wave?",
+        "answer": "A wave is a disturbance that transfers energy from one place to another.",
+        "keywords": ["wave", "energy transfer", "physics"]
+      },
+      {
+        "question": "What is an electric field?",
+        "answer": "An electric field is a region around a charged particle where a force is exerted on other charges.",
+        "keywords": ["electric field", "charge", "physics"]
+      },
+      {
+        "question": "What is pH?",
+        "answer": "pH is a measure of the acidity or basicity of a solution, ranging from 0 to 14.",
+        "keywords": ["pH", "acidity", "chemistry"]
+      },
+      {
+        "question": "What is oxidation?",
+        "answer": "Oxidation is a chemical reaction in which a substance loses electrons.",
+        "keywords": ["oxidation", "redox reaction", "chemistry"]
+      },
+      {
+        "question": "What is a vaccine?",
+        "answer": "A vaccine is a substance that stimulates the immune system to develop immunity against a disease.",
+        "keywords": ["vaccine", "immunity", "biology"]
+      },
+      {
+        "question": "What is the function of the kidneys?",
+        "answer": "The kidneys filter waste from the blood and regulate water balance in the body.",
+        "keywords": ["kidneys", "excretory system", "biology"]
+      },
+      {
+        "question": "What is an earthquake?",
+        "answer": "An earthquake is the shaking of Earth's surface caused by the movement of tectonic plates.",
+        "keywords": ["earthquake", "tectonic plates", "earth science"]
+      },
+      {
+        "question": "What is a fossil fuel?",
+        "answer": "Fossil fuels are energy-rich substances formed from the remains of ancient organisms.",
+        "keywords": ["fossil fuel", "energy", "earth science"]
+      },
+      {
+        "question": "What is a supernova?",
+        "answer": "A supernova is the explosion of a star at the end of its life cycle.",
+        "keywords": ["supernova", "star explosion", "astronomy"]
+      },
+      {
+        "question": "What is the difference between a star and a planet?",
+        "answer": "A star generates its own light and heat, while a planet orbits a star and does not produce light.",
+        "keywords": ["star", "planet", "astronomy"]
+      },
+      {
+        "question": "What is an operating system?",
+        "answer": "An operating system is software that manages computer hardware and software resources.",
+        "keywords": ["operating system", "computer", "technology"]
+      },
+      {
+        "question": "What is Wi-Fi?",
+        "answer": "Wi-Fi is a technology that allows devices to connect to the internet wirelessly.",
+        "keywords": ["Wi-Fi", "internet", "technology"]
+      },
+      {
+        "question": "What is an electric circuit?",
+        "answer": "An electric circuit is a closed path through which electric current flows.",
+        "keywords": ["electric circuit", "current", "physics"]
+      },
+      {
+        "question": "What is an atom?",
+        "answer": "An atom is the smallest unit of matter that retains the properties of an element.",
+        "keywords": ["atom", "matter", "chemistry"]
+      },
+      {
+        "question": "What is the role of chlorophyll?",
+        "answer": "Chlorophyll is the pigment in plants that absorbs light for photosynthesis.",
+        "keywords": ["chlorophyll", "photosynthesis", "biology"]
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The greenhouse effect is the trapping of heat in Earth's atmosphere by greenhouse gases.",
+        "keywords": ["greenhouse effect", "climate change", "earth science"]
+      },
+      {
+        "question": "What is an asteroid?",
+        "answer": "An asteroid is a small rocky object that orbits the Sun, mainly found in the asteroid belt.",
+        "keywords": ["asteroid", "space", "astronomy"]
+      },
+      {
+        "question": "What is static electricity?",
+        "answer": "Static electricity is the buildup of electric charge on a surface due to friction.",
+        "keywords": ["static electricity", "charge", "physics"]
+      },
+      {
+        "question": "What is a telescope?",
+        "answer": "A telescope is an optical instrument used to observe distant objects in space.",
+        "keywords": ["telescope", "astronomy", "space"]
+      },
+      {
+        "question": "What is a cell membrane?",
+        "answer": "The cell membrane is a thin layer that surrounds the cell and controls what enters and exits.",
+        "keywords": ["cell membrane", "biology"]
+      },
+      {
+        "question": "What is kinetic energy?",
+        "answer": "Kinetic energy is the energy possessed by an object due to its motion.",
+        "keywords": ["kinetic energy", "motion", "physics"]
+      },
+      {
+        "question": "What is a force?",
+        "answer": "A force is a push or pull that causes an object to move, stop, or change direction.",
+        "keywords": ["force", "motion", "physics"]
+      },
+      {
+        "question": "What is a conductor?",
+        "answer": "A conductor is a material that allows the flow of electric charge or heat.",
+        "keywords": ["conductor", "electricity", "physics"]
+      },
+      {
+        "question": "What is an insulator?",
+        "answer": "An insulator is a material that resists the flow of electric charge or heat.",
+        "keywords": ["insulator", "electricity", "physics"]
+      },
+      {
+        "question": "What is the second law of motion?",
+        "answer": "Newton's second law states that force equals mass times acceleration (F=ma).",
+        "keywords": ["second law of motion", "Newton", "physics"]
+      },
+      {
+        "question": "What is a capacitor?",
+        "answer": "A capacitor is an electronic component that stores electrical energy.",
+        "keywords": ["capacitor", "electricity", "physics"]
+      },
+      {
+        "question": "What is an alloy?",
+        "answer": "An alloy is a mixture of two or more metals.",
+        "keywords": ["alloy", "metals", "chemistry"]
+      },
+      {
+        "question": "What is distillation?",
+        "answer": "Distillation is a process of separating liquids based on their boiling points.",
+        "keywords": ["distillation", "separation", "chemistry"]
+      },
+      {
+        "question": "What is the function of the lungs?",
+        "answer": "The lungs exchange oxygen and carbon dioxide during respiration.",
+        "keywords": ["lungs", "respiration", "biology"]
+      },
+      {
+        "question": "What is a habitat?",
+        "answer": "A habitat is the natural environment where an organism lives.",
+        "keywords": ["habitat", "environment", "biology"]
+      },
+      {
+        "question": "What is a tornado?",
+        "answer": "A tornado is a rotating column of air extending from a thunderstorm to the ground.",
+        "keywords": ["tornado", "weather", "earth science"]
+      },
+      {
+        "question": "What is erosion?",
+        "answer": "Erosion is the process of soil and rock being removed by wind, water, or ice.",
+        "keywords": ["erosion", "weathering", "earth science"]
+      },
+      {
+        "question": "What is a lunar eclipse?",
+        "answer": "A lunar eclipse occurs when Earth blocks sunlight from reaching the Moon.",
+        "keywords": ["lunar eclipse", "moon", "astronomy"]
+      },
+      {
+        "question": "What is a solar system?",
+        "answer": "A solar system consists of a star and all the objects that orbit it.",
+        "keywords": ["solar system", "planets", "astronomy"]
+      },
+      {
+        "question": "What is an algorithm?",
+        "answer": "An algorithm is a step-by-step procedure for solving a problem.",
+        "keywords": ["algorithm", "programming", "technology"]
+      },
+      {
+        "question": "What is an LED?",
+        "answer": "LED stands for Light Emitting Diode, a semiconductor device that emits light.",
+        "keywords": ["LED", "electronics", "technology"]
+      },
+      {
+        "question": "What is Newton's third law of motion?",
+        "answer": "Newton's third law states that for every action, there is an equal and opposite reaction.",
+        "keywords": ["Newton's third law", "force", "physics"]
+      },
+      {
+        "question": "What is the periodic table?",
+        "answer": "The periodic table is an arrangement of chemical elements based on their atomic number.",
+        "keywords": ["periodic table", "elements", "chemistry"]
+      },
+      {
+        "question": "What is osmosis?",
+        "answer": "Osmosis is the movement of water molecules through a selectively permeable membrane.",
+        "keywords": ["osmosis", "biology", "cell transport"]
+      },
+      {
+        "question": "What is a nebula?",
+        "answer": "A nebula is a cloud of gas and dust in space where new stars are formed.",
+        "keywords": ["nebula", "astronomy", "space"]
+      },
+      {
+        "question": "What is geothermal energy?",
+        "answer": "Geothermal energy is heat energy from within the Earth used for electricity generation.",
+        "keywords": ["geothermal energy", "renewable energy", "earth science"]
+      },
+      {
+        "question": "What is a magnet?",
+        "answer": "A magnet is an object that produces a magnetic field and attracts certain metals like iron.",
+        "keywords": ["magnet", "magnetic field", "physics"]
+      },
+      {
+        "question": "What is a black hole?",
+        "answer": "A black hole is a region of space with gravitational force so strong that nothing can escape from it.",
+        "keywords": ["black hole", "gravity", "astronomy"]
+      },
+      {
+        "question": "What is a conductor?",
+        "answer": "A conductor is a material that allows electricity or heat to flow through it easily.",
+        "keywords": ["conductor", "electricity", "physics"]
+      },
+      {
+        "question": "What is an insulator?",
+        "answer": "An insulator is a material that resists the flow of electricity or heat.",
+        "keywords": ["insulator", "electricity", "physics"]
+      },
+      {
+        "question": "What is radioactivity?",
+        "answer": "Radioactivity is the emission of radiation by an unstable atomic nucleus.",
+        "keywords": ["radioactivity", "nuclear", "physics"]
+      },
+      {
+        "question": "What is the greenhouse effect?",
+        "answer": "The greenhouse effect is the trapping of heat in Earth's atmosphere by greenhouse gases.",
+        "keywords": ["greenhouse effect", "climate change", "earth science"]
+      },
+      {
+        "question": "What is antimatter?",
+        "answer": "Antimatter consists of particles with opposite charges compared to normal matter.",
+        "keywords": ["antimatter", "particles", "physics"]
+      },
+      {
+        "question": "What is the function of ribosomes in a cell?",
+        "answer": "Ribosomes are responsible for protein synthesis in cells.",
+        "keywords": ["ribosomes", "protein synthesis", "biology"]
+      },
+      {
+        "question": "What is the main cause of ocean tides?",
+        "answer": "Ocean tides are primarily caused by the gravitational pull of the Moon and the Sun.",
+        "keywords": ["ocean tides", "moon", "earth science"]
+      },
+      {
+        "question": "What is the Heisenberg Uncertainty Principle?",
+        "answer": "The Heisenberg Uncertainty Principle states that the position and momentum of a particle cannot both be precisely measured at the same time.",
+        "keywords": ["Heisenberg Uncertainty Principle", "quantum mechanics", "physics"]
+      },
+      {
+        "question": "What is CRISPR technology?",
+        "answer": "CRISPR is a gene-editing technology that allows scientists to modify DNA sequences.",
+        "keywords": ["CRISPR", "gene editing", "biology"]
+      },
+      {
+        "question": "What is a quantum computer?",
+        "answer": "A quantum computer is a type of computer that uses quantum bits (qubits) to perform calculations much faster than classical computers.",
+        "keywords": ["quantum computer", "qubits", "technology"]
+      },
+      {
+        "question": "What is dark energy?",
+        "answer": "Dark energy is a mysterious force that is causing the universe to expand at an accelerating rate.",
+        "keywords": ["dark energy", "cosmology", "astronomy"]
+      },
+      {
+        "question": "What is the function of the cerebrum in the brain?",
+        "answer": "The cerebrum controls voluntary actions, sensory processing, and higher thinking functions.",
+        "keywords": ["cerebrum", "brain", "biology"]
+      },
+      {
+        "question": "What is an earthquake's epicenter?",
+        "answer": "The epicenter is the point on the Earth's surface directly above where an earthquake originates.",
+        "keywords": ["epicenter", "earthquake", "earth science"]
+      },
+      {
+        "question": "What is absolute zero?",
+        "answer": "Absolute zero is the lowest possible temperature at which all molecular motion stops (-273.15°C or 0 Kelvin).",
+        "keywords": ["absolute zero", "temperature", "physics"]
+      },
+      {
+        "question": "What is superconductivity?",
+        "answer": "Superconductivity is a state in which a material exhibits zero electrical resistance.",
+        "keywords": ["superconductivity", "electricity", "physics"]
+      },
+      {
+        "question": "What is time dilation?",
+        "answer": "Time dilation is the slowing of time as experienced by an object moving close to the speed of light.",
+        "keywords": ["time dilation", "relativity", "physics"]
+      },
+      {
+        "question": "What is the difference between organic and inorganic compounds?",
+        "answer": "Organic compounds contain carbon and hydrogen bonds, while inorganic compounds do not.",
+        "keywords": ["organic compounds", "inorganic compounds", "chemistry"]
+      },
+      {
+        "question": "What is a reversible reaction?",
+        "answer": "A reversible reaction is a chemical reaction that can proceed in both forward and reverse directions.",
+        "keywords": ["reversible reaction", "chemistry"]
+      },
+      {
+        "question": "What is genetic drift?",
+        "answer": "Genetic drift is the change in allele frequencies in a population due to random chance.",
+        "keywords": ["genetic drift", "evolution", "biology"]
+      },
+      {
+        "question": "What is a vestigial organ?",
+        "answer": "A vestigial organ is a structure that has lost most or all of its original function through evolution.",
+        "keywords": ["vestigial organ", "evolution", "biology"]
+      },
+      {
+        "question": "What is the Coriolis Effect?",
+        "answer": "The Coriolis Effect is the deflection of moving objects caused by Earth's rotation.",
+        "keywords": ["Coriolis Effect", "rotation", "earth science"]
+      },
+      {
+        "question": "What is an aquifer?",
+        "answer": "An aquifer is an underground layer of rock or sediment that holds water.",
+        "keywords": ["aquifer", "groundwater", "earth science"]
+      },
+      {
+        "question": "What is cosmic microwave background radiation?",
+        "answer": "Cosmic microwave background radiation is the faint thermal radiation left over from the Big Bang.",
+        "keywords": ["CMB", "Big Bang", "astronomy"]
+      },
+      {
+        "question": "What is an event horizon?",
+        "answer": "An event horizon is the boundary around a black hole beyond which nothing can escape.",
+        "keywords": ["event horizon", "black hole", "astronomy"]
+      },
+      {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing is the delivery of computing services over the internet instead of on local devices.",
+        "keywords": ["cloud computing", "internet", "technology"]
+      },
+      {
+        "question": "What is a neural network?",
+        "answer": "A neural network is a machine learning model inspired by the structure of the human brain.",
+        "keywords": ["neural network", "AI", "technology"]
+      }
+]

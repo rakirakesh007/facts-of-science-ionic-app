@@ -1,0 +1,42 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button (click)="goBack()">
+        <ion-icon name="arrow-back"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title>Science News</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <!-- Pull-to-refresh -->
+  <!-- <ion-refresher slot="fixed" (ionRefresh)="refreshNews($event)">
+    <ion-refresher-content pullingText="Pull to refresh" refreshingSpinner="bubbles"></ion-refresher-content>
+  </ion-refresher>
+
+  <ion-spinner *ngIf="loading" class="spinner-center"></ion-spinner> -->
+
+  <ion-list *ngIf="newsArticles.length > 0">
+    <ion-item class="news-item animate-item" *ngFor="let article of newsArticles; let i = index">
+      <ion-thumbnail slot="start" class="news-thumbnail">
+        <img [src]="article.urlToImage || 'assets/default-news.jpg'" alt="News thumbnail"/>
+      </ion-thumbnail>
+      <ion-label>
+        <h2>{{ article.title }}</h2>
+        <p>{{ article.description }}</p>
+        <div class="news-actions">
+          <ion-button fill="outline" color="success" (click)="openArticle(article.url)">
+            Read More
+          </ion-button>
+          <!-- <ion-button fill="clear" color="dark" (click)="shareNews(article)">
+            <ion-icon name="share-social-outline"></ion-icon>
+          </ion-button> -->
+        </div>
+      </ion-label>
+      <ion-col size="12" *ngIf="(i + 1) % 5 === 0">
+        <div id="adaptive-banner-{{i}}" class="ad-container"></div>
+      </ion-col>
+    </ion-item>
+  </ion-list>
+</ion-content>

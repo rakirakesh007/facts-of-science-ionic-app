@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button (click)="goHome()"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Favorite Facts</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card *ngFor="let fact of favoriteFacts; let i = index">
+    <ion-card-header>
+      <ion-card-title>{{ fact.title }}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content>
+      <p>{{ fact.description }}</p>
+    </ion-card-content>
+    
+    <!-- Banner Ad -->
+    <ion-card *ngIf="(i + 1) % 5 === 0" class="ad-banner">
+      <ion-card-content>
+        <div id="banner-ad-container-fav-{{i}}"></div>
+      </ion-card-content>
+    </ion-card>
+  </ion-card>
+</ion-content>
