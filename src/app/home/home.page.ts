@@ -30,17 +30,17 @@ export class HomePage implements OnInit {
           this.dailyFact = await this.databaseService.getDailyFact();
           this.newsArticles = await this.databaseService.fetchScienceNews();
           this.limitedNews = this.newsArticles.slice(0, 3);
-          AOS.init({
-            duration: 1000,
-            once: true, // Only animate once
-            easing: 'ease-in-out', // Smooth animation
-          });
         },
         error: (error) => {
           console.error('Error fetching science facts:', error);
         }
       });
       this.databaseService.showBannerAd();
+      AOS.init({
+        duration: 1000,
+        once: true,
+        easing: 'ease-in-out',
+      });
     } catch (error) {
       console.error('Error in ngOnInit:', error);
     }
