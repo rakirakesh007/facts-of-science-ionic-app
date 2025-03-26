@@ -5,7 +5,6 @@ import { Share } from '@capacitor/share';
 import { Browser } from '@capacitor/browser';
 import { ModalController } from '@ionic/angular';
 import { ChatModalComponent } from '../chat-modal/chat-modal.component';
-import * as AOS from 'aos';
 
 @Component({
   selector: 'app-home',
@@ -36,11 +35,6 @@ export class HomePage implements OnInit {
         }
       });
       this.databaseService.showBannerAd();
-      AOS.init({
-        duration: 1000,
-        once: true,
-        easing: 'ease-in-out',
-      });
     } catch (error) {
       console.error('Error in ngOnInit:', error);
     }

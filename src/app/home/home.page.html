@@ -41,7 +41,7 @@
   <ion-content [fullscreen]="true">
     <div class="intro-section">
       <div class="intro-content">
-        <h1 data-aos="fade-up">
+        <h1>
           Explore the
           <br /><span class="text-gradient">Wonders of Science</span>
         </h1>
@@ -61,7 +61,7 @@
       </div>
     </div>
 
-    <ion-card class="daily-fact-card" data-aos="zoom-in">
+    <ion-card class="daily-fact-card">
       <ion-card-header>
         <ion-card-title class="daily-fact-title">
           <h2>🌟 Fact of the Day</h2>
@@ -84,7 +84,7 @@
       </ion-card-content>
     </ion-card>
 
-    <div class="news-section" data-aos="fade-right">
+    <div class="news-section">
       <h2>📢 Science news of the day</h2>
       <ion-list *ngIf="limitedNews.length > 0">
         <ion-item class="news-item" *ngFor="let article of limitedNews">
@@ -124,7 +124,7 @@
           class="fade-in"
         >
           <ion-card
-            class="fact-card animate-card" data-aos="flip-left"
+            class="fact-card animate-card"
             [ngStyle]="{'background-image': 'url(' + fact.imageURL + ')'}"
             (click)="navigateToFactDetails(fact.category)"
           >
@@ -138,7 +138,7 @@
       </ion-row>
     </ion-grid>
 
-    <ion-fab vertical="bottom" horizontal="end" slot="fixed" data-aos="fade-in" style="bottom:50px">
+    <ion-fab vertical="bottom" horizontal="end" slot="fixed" style="bottom:50px">
       <ion-fab-button style="background: transparent; box-shadow: none; width: 75px; height: 75px;" (click)="openChat()" size="large">
         <img src="assets/ask-bot.gif" alt="Ask Science"
           style="width: 75px; height: 75px; border-radius: 50%;">
